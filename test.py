@@ -10,3 +10,10 @@ print((m.length_me - m.length_ref).abs().describe())   # tells you mean vs media
 
 v = pd.read_csv(d + r"\Veh_smoothed_tracks.csv", usecols=["frame_id", "timestamp_ms"])
 print((v.timestamp_ms - v.frame_id * 3 / 29.97 * 1000).abs().max())
+
+
+d = r"SinD\Data\Tianjin\8_2_1"
+v = pd.read_csv(d + r"\Veh_smoothed_tracks.csv", usecols=["frame_id", "timestamp_ms"])
+n = v.frame_id.max() - v.frame_id.min() + 1
+print(n, "frames,", round((v.timestamp_ms.max() - v.timestamp_ms.min()) / 60000, 1), "min")
+print(v.frame_id.nunique(), "frames that contain at least one vehicle")

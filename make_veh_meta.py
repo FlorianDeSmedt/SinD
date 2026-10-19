@@ -19,6 +19,14 @@ Those two need site geometry, supplied via a JSON config (see site_config_exampl
 
 Assumes a right-handed ground frame (y up). If left/right counts look swapped, set
 "flip_handedness": true in the config.
+
+Copy this into powershell to run:
+
+python SinD\make_veh_meta.py `
+  --tracks "SinD\Data\Tianjin\8_2_1\Veh_smoothed_tracks.csv" `
+  --lights "SinD\Data\Tianjin\8_2_1\TrafficLight_8_2_1.csv" `
+  --config "SinD\tianjin_config.json" `
+  --out "SinD\my_Veh_tracks_meta.csv"
 """
 import argparse, json
 import numpy as np
