@@ -1,0 +1,67 @@
+trackId,initialFrame,finalFrame,Frame_nums,class,Crosswalk,Entry_frames,Light_at_entry,Signal_Violation_Behavior
+P1,0,35,36,pedestrian,None,,,No violation of traffic lights
+P10,690,1152,463,pedestrian,None,,,No violation of traffic lights
+P11,761,1014,254,pedestrian,N,824,green,No violation of traffic lights
+P12,1054,1273,220,pedestrian,E,1136,green,No violation of traffic lights
+P13,1165,1731,567,pedestrian,W,1371,red,red-light running
+P14,1559,2219,661,pedestrian,None,,,No violation of traffic lights
+P15,1685,2401,717,pedestrian,None,,,No violation of traffic lights
+P16,1858,2259,402,pedestrian,None,,,No violation of traffic lights
+P17,2134,2157,24,pedestrian,None,,,No violation of traffic lights
+P18,2225,2619,395,pedestrian,None,,,No violation of traffic lights
+P19,2437,2622,186,pedestrian,None,,,No violation of traffic lights
+P2,0,12004,12005,pedestrian,None,,,No violation of traffic lights
+P20,2692,3125,434,pedestrian,W,2875,green,No violation of traffic lights
+P21,2738,2929,192,pedestrian,None,,,No violation of traffic lights
+P22,2860,2928,69,pedestrian,None,,,No violation of traffic lights
+P23,3277,3458,182,pedestrian,N,3303,green,No violation of traffic lights
+P24,3279,3656,378,pedestrian,E,3394,red,red-light running
+P25,3650,4259,610,pedestrian,S;W,3791;4072,green;green,No violation of traffic lights
+P26,4615,4956,342,pedestrian,None,,,No violation of traffic lights
+P27,4619,4955,337,pedestrian,None,,,No violation of traffic lights
+P28,4753,4840,88,pedestrian,None,,,No violation of traffic lights
+P29,4854,5090,237,pedestrian,N,4922,red,red-light running
+P3,148,441,294,pedestrian,None,,,No violation of traffic lights
+P30,4985,5467,483,pedestrian,None,,,No violation of traffic lights
+P31,5174,5293,120,pedestrian,None,,,No violation of traffic lights
+P32,5255,5548,294,pedestrian,W,5339,green,No violation of traffic lights
+P33,5360,7025,1666,pedestrian,None,,,No violation of traffic lights
+P34,5750,5999,250,pedestrian,None,,,No violation of traffic lights
+P35,5745,6053,309,pedestrian,None,,,No violation of traffic lights
+P36,5875,6050,176,pedestrian,W,5894,green,No violation of traffic lights
+P37,5940,6295,356,pedestrian,None,,,No violation of traffic lights
+P38,5940,6297,358,pedestrian,None,,,No violation of traffic lights
+P39,5987,6088,102,pedestrian,None,,,No violation of traffic lights
+P4,151,458,308,pedestrian,None,,,No violation of traffic lights
+P40,6792,7239,448,pedestrian,W,7039,green,No violation of traffic lights
+P41,6878,7163,286,pedestrian,W,7033,green,No violation of traffic lights
+P42,7099,7339,241,pedestrian,E,7099,unknown,No violation of traffic lights
+P43,7241,7934,694,pedestrian,E,7379,red,red-light running
+P44,7425,7772,348,pedestrian,S;W,7481;7620,green;red,red-light running
+P45,7435,10313,2879,pedestrian,None,,,No violation of traffic lights
+P46,7615,7683,69,pedestrian,None,,,No violation of traffic lights
+P47,7626,7929,304,pedestrian,None,,,No violation of traffic lights
+P48,8146,8493,348,pedestrian,N,8301,red,red-light running
+P49,8160,8534,375,pedestrian,N,8318,red,red-light running
+P5,189,525,337,pedestrian,None,,,No violation of traffic lights
+P50,8229,8737,509,pedestrian,None,,,No violation of traffic lights
+P51,8464,8812,349,pedestrian,None,,,No violation of traffic lights
+P52,8529,8874,346,pedestrian,None,,,No violation of traffic lights
+P53,8686,9037,352,pedestrian,W,8750,red,red-light running
+P54,9132,9462,331,pedestrian,W,9294,red,red-light running
+P55,10397,10503,107,pedestrian,None,,,No violation of traffic lights
+P56,10272,10556,285,pedestrian,None,,,No violation of traffic lights
+P57,10337,10952,616,pedestrian,W,10648,green,No violation of traffic lights
+P58,10331,10937,607,pedestrian,W,10639,green,No violation of traffic lights
+P59,10660,11059,400,pedestrian,None,,,No violation of traffic lights
+P6,386,706,321,pedestrian,None,,,No violation of traffic lights
+P60,10665,11079,415,pedestrian,None,,,No violation of traffic lights
+P61,11075,11387,313,pedestrian,W,11164,red,red-light running
+P62,11435,12004,570,pedestrian,None,,,No violation of traffic lights
+P63,11576,12004,429,pedestrian,None,,,No violation of traffic lights
+P64,11563,11607,45,pedestrian,None,,,No violation of traffic lights
+P65,11639,11975,337,pedestrian,W,11808,red,red-light running
+P66,11833,11902,70,pedestrian,None,,,No violation of traffic lights
+P7,463,502,40,pedestrian,None,,,No violation of traffic lights
+P8,659,699,41,pedestrian,None,,,No violation of traffic lights
+P9,689,1153,465,pedestrian,E,839,red,red-light running
