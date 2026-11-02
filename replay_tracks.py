@@ -30,7 +30,7 @@ Examples
   --lights SinD\Data\Tianjin\8_2_1\TrafficLight_8_2_1.csv `
   --peds SinD\Data\Tianjin\8_2_1\Ped_smoothed_tracks.csv `
   --meta SinD\my_Veh_tracks_meta.csv `
-  --start 0 --end 600 --out SinD\replay.mp4
+  --start 0 --end 12005 --out SinD\replay.mp4
 """
 import argparse, json, shutil
 import numpy as np

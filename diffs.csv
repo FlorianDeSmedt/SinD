@@ -1,0 +1,47 @@
+trackId,class_ref,initialFrame_ref,finalFrame_ref,differs_in,CrossType_ref,CrossType_mine,Signal_Violation_Behavior_ref,Signal_Violation_Behavior_mine
+19,car,150,214,CrossType,LeftTurn,Others,No violation of traffic lights,No violation of traffic lights
+15,car,97,148,Signal_Violation_Behavior,StraightCross,StraightCross,yellow-light running ,yellow-light running
+16,car,110,204,Signal_Violation_Behavior,LeftTurn,LeftTurn,yellow-light running ,yellow-light running
+34,tricycle,393,511,Signal_Violation_Behavior,StraightCross,StraightCross,No violation of traffic lights,red-light running
+41,motorcycle,684,784,Signal_Violation_Behavior,LeftTurn,LeftTurn,No violation of traffic lights,red-light running
+43,motorcycle,689,841,Signal_Violation_Behavior,StraightCross,StraightCross,No violation of traffic lights,red-light running
+44,car,700,796,Signal_Violation_Behavior,LeftTurn,LeftTurn,yellow-light running ,yellow-light running
+63,bicycle,964,1089,Signal_Violation_Behavior,LeftTurn,LeftTurn,No violation of traffic lights,yellow-light running
+70,bus,1124,1423,Signal_Violation_Behavior,LeftTurn,LeftTurn,No violation of traffic lights,red-light running
+73,car,1150,1442,Signal_Violation_Behavior,StraightCross,StraightCross,No violation of traffic lights,red-light running
+78,truck,1214,1426,Signal_Violation_Behavior,LeftTurn,LeftTurn,No violation of traffic lights,red-light running
+82,motorcycle,1261,1480,Signal_Violation_Behavior,StraightCross,StraightCross,No violation of traffic lights,red-light running
+94,bicycle,1517,1848,Signal_Violation_Behavior,StraightCross,StraightCross,No violation of traffic lights,yellow-light running
+96,bicycle,1531,1851,Signal_Violation_Behavior,StraightCross,StraightCross,No violation of traffic lights,yellow-light running
+120,motorcycle,2176,2280,Signal_Violation_Behavior,LeftTurn,LeftTurn,yellow-light running ,yellow-light running
+136,tricycle,2481,8922,Signal_Violation_Behavior,StraightCross,StraightCross,No violation of traffic lights,red-light running
+140,car,2513,2931,Signal_Violation_Behavior,StraightCross,StraightCross,No violation of traffic lights,yellow-light running
+141,motorcycle,2515,2609,Signal_Violation_Behavior,LeftTurn,LeftTurn,yellow-light running ,yellow-light running
+188,bicycle,3590,3916,Signal_Violation_Behavior,StraightCross,StraightCross,No violation of traffic lights,red-light running
+192,car,3699,3738,Signal_Violation_Behavior,StraightCross,StraightCross,yellow-light running ,yellow-light running
+193,car,3702,3739,Signal_Violation_Behavior,StraightCross,StraightCross,yellow-light running ,yellow-light running
+234,bicycle,4550,5073,Signal_Violation_Behavior,StraightCross,StraightCross,yellow-light running ,yellow-light running
+258,motorcycle,4883,5009,Signal_Violation_Behavior,StraightCross,StraightCross,No violation of traffic lights,red-light running
+268,bicycle,5206,5350,Signal_Violation_Behavior,StraightCross,StraightCross,No violation of traffic lights,red-light running
+283,motorcycle,5482,5629,Signal_Violation_Behavior,StraightCross,StraightCross,No violation of traffic lights,red-light running
+315,tricycle,6108,6245,Signal_Violation_Behavior,LeftTurn,LeftTurn,yellow-light running ,yellow-light running
+330,motorcycle,6368,6463,Signal_Violation_Behavior,StraightCross,StraightCross,No violation of traffic lights,yellow-light running
+350,motorcycle,6668,6796,Signal_Violation_Behavior,StraightCross,StraightCross,No violation of traffic lights,red-light running
+368,car,7001,7071,Signal_Violation_Behavior,LeftTurn,LeftTurn,red-light running,yellow-light running
+385,car,7308,7385,Signal_Violation_Behavior,LeftTurn,LeftTurn,yellow-light running ,yellow-light running
+415,car,8002,8325,Signal_Violation_Behavior,StraightCross,StraightCross,No violation of traffic lights,red-light running
+420,bicycle,8095,8434,Signal_Violation_Behavior,StraightCross,StraightCross,No violation of traffic lights,red-light running
+421,bicycle,8094,8443,Signal_Violation_Behavior,StraightCross,StraightCross,No violation of traffic lights,red-light running
+422,bicycle,8135,8440,Signal_Violation_Behavior,StraightCross,StraightCross,yellow-light running ,yellow-light running
+424,motorcycle,8179,8253,Signal_Violation_Behavior,LeftTurn,LeftTurn,yellow-light running ,yellow-light running
+436,bicycle,8471,8624,Signal_Violation_Behavior,LeftTurn,LeftTurn,yellow-light running ,yellow-light running
+460,car,8968,9246,Signal_Violation_Behavior,LeftTurn,LeftTurn,No violation of traffic lights,red-light running
+465,tricycle,9014,9235,Signal_Violation_Behavior,StraightCross,StraightCross,No violation of traffic lights,red-light running
+466,car,9090,9135,Signal_Violation_Behavior,StraightCross,StraightCross,yellow-light running ,yellow-light running
+469,car,9127,9517,Signal_Violation_Behavior,LeftTurn,LeftTurn,No violation of traffic lights,red-light running
+481,car,9448,9879,Signal_Violation_Behavior,StraightCross,StraightCross,No violation of traffic lights,red-light running
+516,car,10017,10108,Signal_Violation_Behavior,LeftTurn,LeftTurn,No violation of traffic lights,red-light running
+561,motorcycle,10819,11113,Signal_Violation_Behavior,StraightCross,StraightCross,No violation of traffic lights,red-light running
+587,bicycle,11400,11797,Signal_Violation_Behavior,StraightCross,StraightCross,No violation of traffic lights,red-light running
+592,car,11530,11917,Signal_Violation_Behavior,LeftTurn,LeftTurn,No violation of traffic lights,red-light running
+602,car,11781,11840,Signal_Violation_Behavior,StraightCross,StraightCross,yellow-light running ,yellow-light running
