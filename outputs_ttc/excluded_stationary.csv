@@ -1,0 +1,5 @@
+id,agent_type,excluded_frames,first_frame,last_frame,excluded_s
+V136,tricycle,6075,2492,8566,608.1
+V3,bus,12005,0,12004,1201.7
+V410,motorcycle,2717,7924,10640,272.0
+V8,car,12005,0,12004,1201.7
