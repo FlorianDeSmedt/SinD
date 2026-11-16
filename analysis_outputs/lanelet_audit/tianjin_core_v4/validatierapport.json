@@ -1,0 +1,62 @@
+{
+  "version": "v4",
+  "traffic_light_groups_checked": {
+    "phase_group_verified": true,
+    "timeline_verified": true,
+    "failures": [],
+    "groups": {
+      "NS": [
+        1,
+        4,
+        5,
+        8
+      ],
+      "EW": [
+        2,
+        3,
+        6,
+        7
+      ]
+    }
+  },
+  "number_tracks": 611,
+  "number_points": 129273,
+  "events": {
+    "green_crossing": 383,
+    "red_light_running_candidate": 108,
+    "wait_during_red": 98,
+    "wrong_way_candidate": 92,
+    "right_turn_on_red": 71,
+    "yellow_crossing": 23,
+    "red_crossing_near_phase_transition": 9,
+    "red_crossing_movement_unknown": 6
+  },
+  "metadata_discrepancies_to_review": 19,
+  "incomplete_od": 19,
+  "stopline_coverage_by_arm": {
+    "E": true,
+    "N": true,
+    "S": true,
+    "W": true
+  },
+  "lanelets_unreadable": [
+    [
+      "-101274",
+      "missing_boundary"
+    ]
+  ],
+  "assumptions": [
+    "lanelet approach_gap endpoints represent stopline",
+    "nonmotor follows motor approach phase (user research assumption)",
+    "right turns on red not counted as red violations; yielding excluded",
+    "only observed trajectories are assessed; absence of detection is not proof of compliance"
+  ],
+  "limitations": [
+    "No original full trajectories in sandbox if using reconstructed v3 point export",
+    "No independent lane geometry or manual labels for the full dataset",
+    "Measured length may not specify reference point/heading semantics",
+    "Straight approach lane against-direction is screened; not every possible wrong-way maneuver"
+  ],
+  "metadata_file_present": true,
+  "input_file_name": "Data\\Tianjin\\8_2_1\\Veh_smoothed_tracks.csv"
+}

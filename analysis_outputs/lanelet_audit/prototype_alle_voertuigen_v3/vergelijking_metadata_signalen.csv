@@ -1,0 +1,612 @@
+﻿track_id,agent_type,meta_signal_annotation,prototype_red_at_reference,prototype_has_validated_stopline,prototype_signal_applicability,comparison_status
+1,motorcycle,No violation of traffic lights,False,False,no_origin,diagnostic_not_ground_truth_validation
+10,bicycle,No violation of traffic lights,True,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+100,car,No violation of traffic lights,True,True,motor_signal,diagnostic_not_ground_truth_validation
+101,car,No violation of traffic lights,True,True,motor_signal,diagnostic_not_ground_truth_validation
+102,bicycle,red-light running,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+103,motorcycle,No violation of traffic lights,False,False,no_origin,diagnostic_not_ground_truth_validation
+104,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+105,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+106,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+107,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+108,motorcycle,red-light running,True,True,motor_signal,diagnostic_not_ground_truth_validation
+109,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+11,bicycle,No violation of traffic lights,True,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+110,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+111,tricycle,No violation of traffic lights,False,True,unknown_agent_signal_applicability,diagnostic_not_ground_truth_validation
+112,bicycle,red-light running,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+113,motorcycle,No violation of traffic lights,True,True,motor_signal,diagnostic_not_ground_truth_validation
+114,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+115,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+116,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+117,motorcycle,red-light running,False,True,motor_signal,diagnostic_not_ground_truth_validation
+118,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+119,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+12,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+120,motorcycle,yellow-light running,False,True,motor_signal,diagnostic_not_ground_truth_validation
+121,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+122,motorcycle,red-light running,False,True,motor_signal,diagnostic_not_ground_truth_validation
+123,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+124,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+125,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+126,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+127,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+128,car,No violation of traffic lights,True,True,motor_signal,diagnostic_not_ground_truth_validation
+129,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+13,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+130,car,No violation of traffic lights,True,True,motor_signal,diagnostic_not_ground_truth_validation
+131,car,No violation of traffic lights,False,False,no_origin,diagnostic_not_ground_truth_validation
+132,motorcycle,red-light running,True,True,motor_signal,diagnostic_not_ground_truth_validation
+133,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+134,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+135,bicycle,red-light running,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+136,tricycle,No violation of traffic lights,False,True,unknown_agent_signal_applicability,diagnostic_not_ground_truth_validation
+137,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+138,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+139,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+14,car,No violation of traffic lights,False,False,no_origin,diagnostic_not_ground_truth_validation
+140,car,No violation of traffic lights,True,True,motor_signal,diagnostic_not_ground_truth_validation
+141,motorcycle,yellow-light running,False,False,no_origin,diagnostic_not_ground_truth_validation
+142,motorcycle,red-light running,False,True,motor_signal,diagnostic_not_ground_truth_validation
+143,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+144,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+145,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+146,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+147,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+148,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+149,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+15,car,yellow-light running,False,True,motor_signal,diagnostic_not_ground_truth_validation
+150,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+151,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+152,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+153,motorcycle,No violation of traffic lights,True,True,motor_signal,diagnostic_not_ground_truth_validation
+154,tricycle,No violation of traffic lights,False,True,unknown_agent_signal_applicability,diagnostic_not_ground_truth_validation
+155,bicycle,No violation of traffic lights,True,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+156,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+157,motorcycle,red-light running,True,True,motor_signal,diagnostic_not_ground_truth_validation
+158,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+159,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+16,car,yellow-light running,False,False,no_origin,diagnostic_not_ground_truth_validation
+160,bicycle,No violation of traffic lights,False,False,no_origin,diagnostic_not_ground_truth_validation
+161,motorcycle,red-light running,True,True,motor_signal,diagnostic_not_ground_truth_validation
+162,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+163,tricycle,No violation of traffic lights,False,True,unknown_agent_signal_applicability,diagnostic_not_ground_truth_validation
+164,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+165,motorcycle,No violation of traffic lights,True,True,motor_signal,diagnostic_not_ground_truth_validation
+166,bicycle,red-light running,True,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+167,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+168,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+169,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+17,motorcycle,red-light running,False,True,motor_signal,diagnostic_not_ground_truth_validation
+170,motorcycle,red-light running,False,True,motor_signal,diagnostic_not_ground_truth_validation
+171,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+172,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+173,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+174,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+175,tricycle,No violation of traffic lights,False,True,unknown_agent_signal_applicability,diagnostic_not_ground_truth_validation
+176,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+177,motorcycle,red-light running,True,True,motor_signal,diagnostic_not_ground_truth_validation
+178,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+179,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+18,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+180,bicycle,red-light running,True,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+181,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+182,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+183,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+184,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+185,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+186,car,No violation of traffic lights,True,True,motor_signal,diagnostic_not_ground_truth_validation
+187,bicycle,No violation of traffic lights,True,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+188,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+189,car,No violation of traffic lights,True,True,motor_signal,diagnostic_not_ground_truth_validation
+19,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+190,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+191,bus,No violation of traffic lights,True,True,motor_signal,diagnostic_not_ground_truth_validation
+192,car,yellow-light running,False,False,no_origin,diagnostic_not_ground_truth_validation
+193,car,yellow-light running,False,False,no_origin,diagnostic_not_ground_truth_validation
+194,motorcycle,red-light running,False,True,motor_signal,diagnostic_not_ground_truth_validation
+195,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+196,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+197,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+198,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+199,tricycle,No violation of traffic lights,False,True,unknown_agent_signal_applicability,diagnostic_not_ground_truth_validation
+2,motorcycle,No violation of traffic lights,False,False,no_origin,diagnostic_not_ground_truth_validation
+20,bicycle,No violation of traffic lights,True,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+200,bicycle,red-light running,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+201,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+202,car,No violation of traffic lights,True,True,motor_signal,diagnostic_not_ground_truth_validation
+203,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+204,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+205,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+206,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+207,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+208,motorcycle,red-light running,True,True,motor_signal,diagnostic_not_ground_truth_validation
+209,motorcycle,No violation of traffic lights,True,True,motor_signal,diagnostic_not_ground_truth_validation
+21,bicycle,No violation of traffic lights,True,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+210,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+211,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+212,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+213,tricycle,No violation of traffic lights,False,True,unknown_agent_signal_applicability,diagnostic_not_ground_truth_validation
+214,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+215,motorcycle,red-light running,False,True,motor_signal,diagnostic_not_ground_truth_validation
+216,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+217,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+218,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+219,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+22,bicycle,No violation of traffic lights,True,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+220,car,No violation of traffic lights,False,False,no_origin,diagnostic_not_ground_truth_validation
+221,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+222,car,No violation of traffic lights,True,True,motor_signal,diagnostic_not_ground_truth_validation
+223,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+224,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+225,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+226,bicycle,red-light running,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+227,bicycle,red-light running,True,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+228,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+229,motorcycle,red-light running,True,True,motor_signal,diagnostic_not_ground_truth_validation
+23,motorcycle,red-light running,True,True,motor_signal,diagnostic_not_ground_truth_validation
+230,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+231,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+232,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+233,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+234,bicycle,yellow-light running,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+235,bicycle,red-light running,True,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+236,bicycle,red-light running,True,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+237,motorcycle,No violation of traffic lights,True,True,motor_signal,diagnostic_not_ground_truth_validation
+238,motorcycle,red-light running,True,True,motor_signal,diagnostic_not_ground_truth_validation
+239,tricycle,No violation of traffic lights,False,True,unknown_agent_signal_applicability,diagnostic_not_ground_truth_validation
+24,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+240,tricycle,No violation of traffic lights,False,True,unknown_agent_signal_applicability,diagnostic_not_ground_truth_validation
+241,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+242,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+243,motorcycle,red-light running,False,True,motor_signal,diagnostic_not_ground_truth_validation
+244,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+245,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+246,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+247,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+248,car,No violation of traffic lights,True,True,motor_signal,diagnostic_not_ground_truth_validation
+249,motorcycle,red-light running,True,True,motor_signal,diagnostic_not_ground_truth_validation
+25,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+250,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+251,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+252,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+253,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+254,bicycle,red-light running,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+255,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+256,bicycle,No violation of traffic lights,True,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+257,tricycle,No violation of traffic lights,False,True,unknown_agent_signal_applicability,diagnostic_not_ground_truth_validation
+258,motorcycle,No violation of traffic lights,True,True,motor_signal,diagnostic_not_ground_truth_validation
+259,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+26,motorcycle,red-light running,False,True,motor_signal,diagnostic_not_ground_truth_validation
+260,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+261,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+262,car,No violation of traffic lights,True,True,motor_signal,diagnostic_not_ground_truth_validation
+263,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+264,motorcycle,red-light running,False,True,motor_signal,diagnostic_not_ground_truth_validation
+265,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+266,bicycle,red-light running,True,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+267,bicycle,red-light running,True,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+268,bicycle,No violation of traffic lights,True,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+269,tricycle,No violation of traffic lights,True,True,unknown_agent_signal_applicability,diagnostic_not_ground_truth_validation
+27,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+270,tricycle,No violation of traffic lights,False,True,unknown_agent_signal_applicability,diagnostic_not_ground_truth_validation
+271,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+272,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+273,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+274,bus,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+275,motorcycle,red-light running,False,True,motor_signal,diagnostic_not_ground_truth_validation
+276,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+277,bicycle,red-light running,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+278,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+279,motorcycle,red-light running,True,True,motor_signal,diagnostic_not_ground_truth_validation
+28,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+280,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+281,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+282,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+283,motorcycle,No violation of traffic lights,True,True,motor_signal,diagnostic_not_ground_truth_validation
+284,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+285,motorcycle,red-light running,False,True,motor_signal,diagnostic_not_ground_truth_validation
+286,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+287,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+288,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+289,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+29,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+290,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+291,tricycle,red-light running,False,True,unknown_agent_signal_applicability,diagnostic_not_ground_truth_validation
+292,motorcycle,red-light running,False,True,motor_signal,diagnostic_not_ground_truth_validation
+293,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+294,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+295,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+296,motorcycle,No violation of traffic lights,False,False,no_origin,diagnostic_not_ground_truth_validation
+297,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+298,motorcycle,red-light running,True,True,motor_signal,diagnostic_not_ground_truth_validation
+299,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+3,bus,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+30,bicycle,red-light running,True,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+300,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+301,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+302,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+303,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+304,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+305,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+306,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+307,bicycle,red-light running,True,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+308,car,No violation of traffic lights,False,False,no_origin,diagnostic_not_ground_truth_validation
+309,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+31,bicycle,red-light running,True,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+310,motorcycle,red-light running,True,True,motor_signal,diagnostic_not_ground_truth_validation
+311,car,No violation of traffic lights,True,True,motor_signal,diagnostic_not_ground_truth_validation
+312,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+313,motorcycle,red-light running,False,True,motor_signal,diagnostic_not_ground_truth_validation
+314,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+315,tricycle,yellow-light running,False,True,unknown_agent_signal_applicability,diagnostic_not_ground_truth_validation
+316,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+317,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+318,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+319,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+32,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+320,motorcycle,red-light running,True,True,motor_signal,diagnostic_not_ground_truth_validation
+321,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+322,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+323,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+324,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+325,bicycle,red-light running,True,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+326,car,No violation of traffic lights,True,True,motor_signal,diagnostic_not_ground_truth_validation
+327,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+328,motorcycle,No violation of traffic lights,True,True,motor_signal,diagnostic_not_ground_truth_validation
+329,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+33,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+330,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+331,motorcycle,red-light running,True,True,motor_signal,diagnostic_not_ground_truth_validation
+332,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+333,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+334,motorcycle,red-light running,True,True,motor_signal,diagnostic_not_ground_truth_validation
+335,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+336,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+337,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+338,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+339,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+34,tricycle,No violation of traffic lights,True,True,unknown_agent_signal_applicability,diagnostic_not_ground_truth_validation
+340,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+341,motorcycle,No violation of traffic lights,True,True,motor_signal,diagnostic_not_ground_truth_validation
+342,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+343,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+344,bicycle,red-light running,True,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+345,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+346,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+347,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+348,motorcycle,No violation of traffic lights,True,True,motor_signal,diagnostic_not_ground_truth_validation
+349,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+35,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+350,motorcycle,No violation of traffic lights,True,True,motor_signal,diagnostic_not_ground_truth_validation
+351,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+352,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+353,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+354,bicycle,red-light running,True,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+355,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+356,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+357,motorcycle,No violation of traffic lights,True,True,motor_signal,diagnostic_not_ground_truth_validation
+358,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+359,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+36,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+360,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+361,motorcycle,red-light running,True,True,motor_signal,diagnostic_not_ground_truth_validation
+362,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+363,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+364,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+365,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+366,bicycle,No violation of traffic lights,True,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+367,motorcycle,No violation of traffic lights,True,True,motor_signal,diagnostic_not_ground_truth_validation
+368,car,red-light running,False,True,motor_signal,diagnostic_not_ground_truth_validation
+369,truck,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+37,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+370,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+371,car,No violation of traffic lights,True,True,motor_signal,diagnostic_not_ground_truth_validation
+372,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+373,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+374,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+375,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+376,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+377,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+378,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+379,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+38,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+380,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+381,car,No violation of traffic lights,True,True,motor_signal,diagnostic_not_ground_truth_validation
+382,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+383,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+384,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+385,car,yellow-light running,False,True,motor_signal,diagnostic_not_ground_truth_validation
+386,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+387,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+388,motorcycle,red-light running,False,True,motor_signal,diagnostic_not_ground_truth_validation
+389,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+39,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+390,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+391,motorcycle,No violation of traffic lights,True,True,motor_signal,diagnostic_not_ground_truth_validation
+392,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+393,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+394,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+395,bicycle,red-light running,True,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+396,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+397,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+398,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+399,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+4,motorcycle,red-light running,True,True,motor_signal,diagnostic_not_ground_truth_validation
+40,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+400,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+401,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+402,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+403,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+404,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+405,motorcycle,red-light running,True,True,motor_signal,diagnostic_not_ground_truth_validation
+406,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+407,tricycle,No violation of traffic lights,False,True,unknown_agent_signal_applicability,diagnostic_not_ground_truth_validation
+408,motorcycle,No violation of traffic lights,True,True,motor_signal,diagnostic_not_ground_truth_validation
+409,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+41,motorcycle,No violation of traffic lights,True,True,motor_signal,diagnostic_not_ground_truth_validation
+410,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+411,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+412,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+413,car,No violation of traffic lights,True,True,motor_signal,diagnostic_not_ground_truth_validation
+414,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+415,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+416,bicycle,red-light running,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+417,bicycle,red-light running,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+418,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+419,tricycle,No violation of traffic lights,False,True,unknown_agent_signal_applicability,diagnostic_not_ground_truth_validation
+42,tricycle,No violation of traffic lights,False,True,unknown_agent_signal_applicability,diagnostic_not_ground_truth_validation
+420,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+421,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+422,bicycle,yellow-light running,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+423,bicycle,red-light running,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+424,motorcycle,yellow-light running,False,True,motor_signal,diagnostic_not_ground_truth_validation
+425,motorcycle,red-light running,False,True,motor_signal,diagnostic_not_ground_truth_validation
+426,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+427,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+428,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+429,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+43,motorcycle,No violation of traffic lights,True,True,motor_signal,diagnostic_not_ground_truth_validation
+430,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+431,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+432,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+433,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+434,car,No violation of traffic lights,True,True,motor_signal,diagnostic_not_ground_truth_validation
+435,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+436,bicycle,yellow-light running,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+437,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+438,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+439,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+44,car,yellow-light running,False,True,motor_signal,diagnostic_not_ground_truth_validation
+440,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+441,motorcycle,red-light running,True,True,motor_signal,diagnostic_not_ground_truth_validation
+442,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+443,motorcycle,No violation of traffic lights,True,True,motor_signal,diagnostic_not_ground_truth_validation
+444,motorcycle,red-light running,True,True,motor_signal,diagnostic_not_ground_truth_validation
+445,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+446,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+447,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+448,motorcycle,red-light running,False,True,motor_signal,diagnostic_not_ground_truth_validation
+449,motorcycle,No violation of traffic lights,False,False,no_origin,diagnostic_not_ground_truth_validation
+45,motorcycle,red-light running,True,True,motor_signal,diagnostic_not_ground_truth_validation
+450,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+451,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+452,motorcycle,red-light running,False,True,motor_signal,diagnostic_not_ground_truth_validation
+453,bicycle,red-light running,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+454,motorcycle,red-light running,True,True,motor_signal,diagnostic_not_ground_truth_validation
+455,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+456,car,No violation of traffic lights,True,True,motor_signal,diagnostic_not_ground_truth_validation
+457,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+458,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+459,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+46,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+460,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+461,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+462,tricycle,red-light running,True,True,unknown_agent_signal_applicability,diagnostic_not_ground_truth_validation
+463,motorcycle,red-light running,True,True,motor_signal,diagnostic_not_ground_truth_validation
+464,tricycle,No violation of traffic lights,False,True,unknown_agent_signal_applicability,diagnostic_not_ground_truth_validation
+465,tricycle,No violation of traffic lights,True,True,unknown_agent_signal_applicability,diagnostic_not_ground_truth_validation
+466,car,yellow-light running,False,False,no_origin,diagnostic_not_ground_truth_validation
+467,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+468,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+469,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+47,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+470,tricycle,No violation of traffic lights,False,False,no_origin,diagnostic_not_ground_truth_validation
+471,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+472,motorcycle,red-light running,False,True,motor_signal,diagnostic_not_ground_truth_validation
+473,tricycle,No violation of traffic lights,True,True,unknown_agent_signal_applicability,diagnostic_not_ground_truth_validation
+474,motorcycle,red-light running,True,True,motor_signal,diagnostic_not_ground_truth_validation
+475,bicycle,red-light running,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+476,tricycle,No violation of traffic lights,False,True,unknown_agent_signal_applicability,diagnostic_not_ground_truth_validation
+477,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+478,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+479,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+48,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+480,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+481,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+482,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+483,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+484,truck,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+485,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+486,bicycle,red-light running,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+487,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+488,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+489,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+49,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+490,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+491,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+492,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+493,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+494,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+495,motorcycle,red-light running,False,True,motor_signal,diagnostic_not_ground_truth_validation
+496,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+497,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+498,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+499,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+5,car,No violation of traffic lights,False,False,no_origin,diagnostic_not_ground_truth_validation
+50,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+500,motorcycle,red-light running,True,True,motor_signal,diagnostic_not_ground_truth_validation
+501,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+502,tricycle,No violation of traffic lights,False,True,unknown_agent_signal_applicability,diagnostic_not_ground_truth_validation
+503,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+504,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+505,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+506,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+507,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+508,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+509,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+51,car,No violation of traffic lights,True,True,motor_signal,diagnostic_not_ground_truth_validation
+510,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+511,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+512,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+513,tricycle,red-light running,False,True,unknown_agent_signal_applicability,diagnostic_not_ground_truth_validation
+514,motorcycle,red-light running,False,True,motor_signal,diagnostic_not_ground_truth_validation
+515,car,No violation of traffic lights,True,True,motor_signal,diagnostic_not_ground_truth_validation
+516,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+517,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+518,motorcycle,red-light running,False,True,motor_signal,diagnostic_not_ground_truth_validation
+519,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+52,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+520,tricycle,red-light running,True,True,unknown_agent_signal_applicability,diagnostic_not_ground_truth_validation
+521,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+522,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+523,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+524,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+525,motorcycle,No violation of traffic lights,True,True,motor_signal,diagnostic_not_ground_truth_validation
+526,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+527,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+528,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+529,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+53,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+530,car,No violation of traffic lights,False,False,no_origin,diagnostic_not_ground_truth_validation
+531,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+532,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+533,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+534,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+535,motorcycle,No violation of traffic lights,True,True,motor_signal,diagnostic_not_ground_truth_validation
+536,bicycle,red-light running,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+537,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+538,bicycle,red-light running,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+539,bicycle,red-light running,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+54,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+540,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+541,motorcycle,No violation of traffic lights,True,True,motor_signal,diagnostic_not_ground_truth_validation
+542,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+543,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+544,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+545,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+546,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+547,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+548,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+549,motorcycle,red-light running,True,True,motor_signal,diagnostic_not_ground_truth_validation
+55,motorcycle,red-light running,False,True,motor_signal,diagnostic_not_ground_truth_validation
+550,motorcycle,No violation of traffic lights,True,True,motor_signal,diagnostic_not_ground_truth_validation
+551,car,red-light running,True,True,motor_signal,diagnostic_not_ground_truth_validation
+552,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+553,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+554,bicycle,red-light running,True,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+555,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+556,motorcycle,red-light running,True,True,motor_signal,diagnostic_not_ground_truth_validation
+557,tricycle,No violation of traffic lights,False,True,unknown_agent_signal_applicability,diagnostic_not_ground_truth_validation
+558,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+559,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+56,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+560,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+561,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+562,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+563,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+564,truck,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+565,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+566,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+567,car,No violation of traffic lights,True,True,motor_signal,diagnostic_not_ground_truth_validation
+568,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+569,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+57,motorcycle,red-light running,False,True,motor_signal,diagnostic_not_ground_truth_validation
+570,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+571,tricycle,red-light running,False,True,unknown_agent_signal_applicability,diagnostic_not_ground_truth_validation
+572,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+573,tricycle,No violation of traffic lights,True,True,unknown_agent_signal_applicability,diagnostic_not_ground_truth_validation
+574,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+575,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+576,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+577,bicycle,red-light running,True,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+578,car,No violation of traffic lights,True,True,motor_signal,diagnostic_not_ground_truth_validation
+579,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+58,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+580,bicycle,red-light running,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+581,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+582,motorcycle,red-light running,True,True,motor_signal,diagnostic_not_ground_truth_validation
+583,motorcycle,No violation of traffic lights,True,True,motor_signal,diagnostic_not_ground_truth_validation
+584,motorcycle,No violation of traffic lights,True,True,motor_signal,diagnostic_not_ground_truth_validation
+585,motorcycle,red-light running,False,True,motor_signal,diagnostic_not_ground_truth_validation
+586,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+587,bicycle,No violation of traffic lights,True,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+588,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+589,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+59,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+590,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+591,car,No violation of traffic lights,True,True,motor_signal,diagnostic_not_ground_truth_validation
+592,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+593,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+594,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+595,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+596,motorcycle,red-light running,True,True,motor_signal,diagnostic_not_ground_truth_validation
+597,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+598,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+599,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+6,car,No violation of traffic lights,False,False,no_origin,diagnostic_not_ground_truth_validation
+60,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+600,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+601,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+602,car,yellow-light running,False,True,motor_signal,diagnostic_not_ground_truth_validation
+603,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+604,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+605,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+606,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+607,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+608,tricycle,No violation of traffic lights,False,True,unknown_agent_signal_applicability,diagnostic_not_ground_truth_validation
+609,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+61,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+610,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+611,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+62,motorcycle,red-light running,True,True,motor_signal,diagnostic_not_ground_truth_validation
+63,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+64,tricycle,No violation of traffic lights,False,True,unknown_agent_signal_applicability,diagnostic_not_ground_truth_validation
+65,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+66,motorcycle,red-light running,True,True,motor_signal,diagnostic_not_ground_truth_validation
+67,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+68,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+69,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+7,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+70,bus,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+71,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+72,car,No violation of traffic lights,True,True,motor_signal,diagnostic_not_ground_truth_validation
+73,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+74,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+75,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+76,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+77,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+78,truck,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+79,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+8,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+80,motorcycle,No violation of traffic lights,False,False,no_origin,diagnostic_not_ground_truth_validation
+81,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+82,motorcycle,No violation of traffic lights,True,True,motor_signal,diagnostic_not_ground_truth_validation
+83,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+84,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+85,car,No violation of traffic lights,True,True,motor_signal,diagnostic_not_ground_truth_validation
+86,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+87,motorcycle,red-light running,False,True,motor_signal,diagnostic_not_ground_truth_validation
+88,car,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+89,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+9,car,No violation of traffic lights,True,True,motor_signal,diagnostic_not_ground_truth_validation
+90,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+91,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+92,bicycle,red-light running,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+93,car,No violation of traffic lights,True,True,motor_signal,diagnostic_not_ground_truth_validation
+94,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+95,motorcycle,No violation of traffic lights,False,True,motor_signal,diagnostic_not_ground_truth_validation
+96,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation
+97,tricycle,red-light running,True,True,unknown_agent_signal_applicability,diagnostic_not_ground_truth_validation
+98,motorcycle,red-light running,False,True,motor_signal,diagnostic_not_ground_truth_validation
+99,bicycle,No violation of traffic lights,False,True,motor_signal_proxy_for_nonmotor,diagnostic_not_ground_truth_validation

@@ -1,0 +1,8 @@
+check,status,detail
+phase_groups_and_replay_timeline,PASS,"{'phase_group_verified': True, 'timeline_verified': True, 'failures': [], 'groups': {'NS': (1, 4, 5, 8), 'EW': (2, 3, 6, 7)}}"
+all_arm_virtual_line_geometry,PASS,"{'E': True, 'N': True, 'S': True, 'W': True}"
+genuine_metadata_available,PASS,Data\Tianjin\8_2_1\Veh_tracks_meta.csv
+red_light_metadata_comparison,COMPLETED,19 candidates for independent review
+real_world_detection_accuracy,NOT_VALIDATED,"Requires independently checked video ground truth, not synthetic tests or metadata alone"
+all_physical_lanes_stopline_alignment,ASSUMED_NOT_MEASURED,User hypothesis: incoming approach_gap ends equal stoplines
+separate_bicycle_signal_applicability,ASSUMED,User assumption: nonmotorized follow main approach phase

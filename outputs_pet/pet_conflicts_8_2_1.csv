@@ -1,0 +1,896 @@
+first_track_id,first_agent_type,first_violation,second_track_id,second_agent_type,second_violation,pet_sec,t_first_exit_sec,t_second_enter_sec,heading_diff_deg,simultaneous_presence
+5,car,No violation of traffic lights,4,motorcycle,red-light running,3.504,1.401,4.905,128.3,True
+6,car,No violation of traffic lights,4,motorcycle,red-light running,1.201,4.204,5.405,113.1,True
+4,motorcycle,red-light running,14,car,No violation of traffic lights,3.504,8.609,12.112,35.0,True
+4,motorcycle,red-light running,15,car,yellow-light running,4.404,7.407,11.812,132.0,True
+4,motorcycle,red-light running,16,car,yellow-light running,7.307,7.107,14.414,96.5,False
+4,motorcycle,red-light running,17,motorcycle,red-light running,2.402,9.91,12.312,144.0,False
+4,motorcycle,red-light running,18,car,No violation of traffic lights,9.309,5.405,14.715,34.2,False
+6,car,No violation of traffic lights,15,car,yellow-light running,9.51,3.303,12.813,148.7,False
+9,car,No violation of traffic lights,18,car,No violation of traffic lights,7.207,6.907,14.114,133.2,False
+11,bicycle,No violation of traffic lights,24,bicycle,No violation of traffic lights,8.408,16.917,25.325,35.1,False
+14,car,No violation of traffic lights,12,car,No violation of traffic lights,7.708,11.812,19.52,90.0,True
+15,car,yellow-light running,12,car,No violation of traffic lights,6.006,13.013,19.019,90.0,True
+16,car,yellow-light running,12,car,No violation of traffic lights,4.304,14.815,19.119,117.0,True
+19,car,No violation of traffic lights,12,car,No violation of traffic lights,2.202,18.519,20.721,167.3,True
+12,car,No violation of traffic lights,23,motorcycle,red-light running,8.909,20.721,29.63,91.0,False
+17,motorcycle,red-light running,14,car,No violation of traffic lights,1.602,12.312,13.914,151.5,True
+14,car,No violation of traffic lights,18,car,No violation of traffic lights,9.81,11.411,21.221,90.0,True
+14,car,No violation of traffic lights,19,car,No violation of traffic lights,9.109,10.511,19.62,153.6,False
+15,car,yellow-light running,16,car,yellow-light running,1.001,12.913,13.914,141.1,True
+15,car,yellow-light running,18,car,No violation of traffic lights,7.508,13.213,20.721,90.0,True
+16,car,yellow-light running,18,car,No violation of traffic lights,6.907,14.214,21.121,104.6,True
+16,car,yellow-light running,19,car,No violation of traffic lights,6.807,12.813,19.62,152.8,True
+19,car,No violation of traffic lights,17,motorcycle,red-light running,0.801,17.117,17.918,149.0,True
+19,car,No violation of traffic lights,18,car,No violation of traffic lights,3.203,19.019,22.222,153.9,True
+18,car,No violation of traffic lights,23,motorcycle,red-light running,6.406,22.723,29.129,91.0,True
+19,car,No violation of traffic lights,23,motorcycle,red-light running,8.609,19.52,28.128,127.7,False
+19,car,No violation of traffic lights,26,motorcycle,red-light running,5.706,21.421,27.127,128.3,False
+20,bicycle,No violation of traffic lights,27,car,No violation of traffic lights,2.603,29.93,32.533,126.8,True
+23,motorcycle,red-light running,27,car,No violation of traffic lights,1.902,29.73,31.632,90.0,True
+23,motorcycle,red-light running,28,car,No violation of traffic lights,3.403,30.23,33.634,90.0,True
+23,motorcycle,red-light running,29,car,No violation of traffic lights,1.702,31.431,33.133,85.7,True
+23,motorcycle,red-light running,33,car,No violation of traffic lights,8.909,31.031,39.94,88.9,False
+26,motorcycle,red-light running,32,bicycle,No violation of traffic lights,1.902,36.036,37.938,172.3,True
+27,car,No violation of traffic lights,30,bicycle,red-light running,7.107,32.032,39.139,85.5,True
+27,car,No violation of traffic lights,31,bicycle,red-light running,7.608,31.932,39.54,75.8,True
+28,car,No violation of traffic lights,30,bicycle,red-light running,6.106,34.034,40.14,89.6,True
+28,car,No violation of traffic lights,31,bicycle,red-light running,6.807,33.934,40.741,82.9,True
+29,car,No violation of traffic lights,30,bicycle,red-light running,8.809,33.534,42.342,84.5,True
+29,car,No violation of traffic lights,31,bicycle,red-light running,9.91,33.634,43.544,84.8,True
+33,car,No violation of traffic lights,30,bicycle,red-light running,1.401,40.34,41.742,82.1,True
+33,car,No violation of traffic lights,31,bicycle,red-light running,2.202,40.44,42.643,80.1,True
+32,bicycle,No violation of traffic lights,37,motorcycle,No violation of traffic lights,6.206,43.043,49.249,171.2,False
+33,car,No violation of traffic lights,34,tricycle,No violation of traffic lights,5.205,40.841,46.046,91.6,True
+33,car,No violation of traffic lights,36,car,No violation of traffic lights,8.809,41.341,50.15,90.0,False
+42,tricycle,No violation of traffic lights,35,car,No violation of traffic lights,7.307,74.374,81.682,108.3,True
+43,motorcycle,No violation of traffic lights,35,car,No violation of traffic lights,9.81,77.978,87.788,51.1,True
+44,car,yellow-light running,35,car,No violation of traffic lights,5.205,76.076,81.281,134.7,True
+45,motorcycle,red-light running,35,car,No violation of traffic lights,4.805,77.878,82.683,94.9,True
+48,car,No violation of traffic lights,35,car,No violation of traffic lights,4.304,80.48,84.785,141.9,True
+53,car,No violation of traffic lights,35,car,No violation of traffic lights,1.101,84.184,85.285,136.1,True
+37,motorcycle,No violation of traffic lights,36,car,No violation of traffic lights,5.005,48.549,53.554,135.8,True
+37,motorcycle,No violation of traffic lights,39,car,No violation of traffic lights,0.501,62.462,62.963,49.9,True
+42,tricycle,No violation of traffic lights,40,car,No violation of traffic lights,9.61,74.875,84.484,91.3,True
+45,motorcycle,red-light running,40,car,No violation of traffic lights,6.907,78.378,85.285,82.0,True
+52,motorcycle,No violation of traffic lights,40,car,No violation of traffic lights,7.708,81.381,89.089,152.1,True
+44,car,yellow-light running,41,motorcycle,No violation of traffic lights,5.606,71.471,77.077,153.2,True
+42,tricycle,No violation of traffic lights,43,motorcycle,No violation of traffic lights,6.306,72.272,78.579,86.8,True
+42,tricycle,No violation of traffic lights,44,car,yellow-light running,0.4,74.174,74.575,108.9,True
+42,tricycle,No violation of traffic lights,48,car,No violation of traffic lights,6.406,73.674,80.08,73.5,True
+42,tricycle,No violation of traffic lights,49,car,No violation of traffic lights,2.102,78.178,80.28,35.4,True
+42,tricycle,No violation of traffic lights,56,motorcycle,No violation of traffic lights,5.706,78.879,84.585,25.4,False
+45,motorcycle,red-light running,43,motorcycle,No violation of traffic lights,2.903,76.076,78.979,93.2,True
+51,car,No violation of traffic lights,43,motorcycle,No violation of traffic lights,-0.4,80.981,80.581,98.6,True
+43,motorcycle,No violation of traffic lights,54,car,No violation of traffic lights,4.905,76.176,81.081,87.3,True
+44,car,yellow-light running,45,motorcycle,red-light running,1.802,75.475,77.277,134.8,True
+44,car,yellow-light running,51,car,No violation of traffic lights,0.901,79.68,80.581,164.0,True
+45,motorcycle,red-light running,48,car,No violation of traffic lights,2.703,77.377,80.08,90.4,True
+45,motorcycle,red-light running,53,car,No violation of traffic lights,6.907,77.177,84.084,90.6,True
+46,motorcycle,No violation of traffic lights,55,motorcycle,red-light running,7.508,78.478,85.986,174.7,True
+63,bicycle,No violation of traffic lights,47,car,No violation of traffic lights,3.103,105.806,108.909,155.8,True
+47,car,No violation of traffic lights,76,car,No violation of traffic lights,7.307,113.514,120.821,150.8,False
+61,car,No violation of traffic lights,50,bicycle,No violation of traffic lights,9.51,100.901,110.41,109.7,True
+50,bicycle,No violation of traffic lights,71,car,No violation of traffic lights,5.405,109.51,114.915,36.5,True
+54,car,No violation of traffic lights,55,motorcycle,red-light running,7.407,82.783,90.19,152.7,True
+55,motorcycle,red-light running,61,car,No violation of traffic lights,2.102,93.093,95.195,151.2,False
+60,car,No violation of traffic lights,57,motorcycle,red-light running,5.105,91.291,96.396,84.0,True
+57,motorcycle,red-light running,63,bicycle,No violation of traffic lights,5.405,97.097,102.503,113.2,True
+61,car,No violation of traffic lights,58,car,No violation of traffic lights,6.106,102.503,108.609,138.6,True
+59,car,No violation of traffic lights,62,motorcycle,red-light running,8.809,96.096,104.905,26.2,True
+59,car,No violation of traffic lights,67,bicycle,No violation of traffic lights,4.605,96.096,100.701,61.3,False
+59,car,No violation of traffic lights,68,motorcycle,No violation of traffic lights,6.306,96.096,102.402,57.8,False
+60,car,No violation of traffic lights,61,car,No violation of traffic lights,5.105,93.694,98.799,153.8,True
+60,car,No violation of traffic lights,62,motorcycle,red-light running,8.208,93.293,101.502,82.5,True
+61,car,No violation of traffic lights,62,motorcycle,red-light running,0.701,100.801,101.502,119.5,True
+61,car,No violation of traffic lights,65,car,No violation of traffic lights,8.509,102.503,111.011,139.5,False
+63,bicycle,No violation of traffic lights,66,motorcycle,red-light running,1.401,103.203,104.605,119.4,True
+65,car,No violation of traffic lights,77,motorcycle,No violation of traffic lights,9.409,111.812,121.221,25.7,False
+66,motorcycle,red-light running,69,car,No violation of traffic lights,9.51,100.701,110.21,25.0,True
+69,car,No violation of traffic lights,74,bicycle,No violation of traffic lights,4.605,111.912,116.517,29.8,True
+70,bus,No violation of traffic lights,82,motorcycle,No violation of traffic lights,2.903,140.541,143.443,139.4,True
+70,bus,No violation of traffic lights,84,bicycle,No violation of traffic lights,7.508,140.44,147.948,137.9,True
+71,car,No violation of traffic lights,77,motorcycle,No violation of traffic lights,5.506,115.015,120.521,31.8,True
+78,truck,No violation of traffic lights,73,car,No violation of traffic lights,1.001,139.139,140.14,148.1,True
+74,bicycle,No violation of traffic lights,76,car,No violation of traffic lights,0.901,121.822,122.723,126.2,True
+74,bicycle,No violation of traffic lights,77,motorcycle,No violation of traffic lights,3.604,121.421,125.025,116.1,True
+75,car,No violation of traffic lights,77,motorcycle,No violation of traffic lights,3.303,118.018,121.321,26.1,True
+76,car,No violation of traffic lights,80,motorcycle,No violation of traffic lights,3.103,122.823,125.926,154.3,True
+77,motorcycle,No violation of traffic lights,79,car,No violation of traffic lights,1.602,121.522,123.123,28.7,True
+77,motorcycle,No violation of traffic lights,80,motorcycle,No violation of traffic lights,1.401,124.525,125.926,139.7,True
+78,truck,No violation of traffic lights,87,motorcycle,red-light running,4.204,141.642,145.846,86.0,True
+81,motorcycle,No violation of traffic lights,92,bicycle,red-light running,2.903,146.647,149.55,158.5,True
+82,motorcycle,No violation of traffic lights,86,motorcycle,No violation of traffic lights,9.81,130.931,140.741,44.9,True
+83,motorcycle,No violation of traffic lights,87,motorcycle,red-light running,2.102,141.141,143.243,142.3,True
+84,bicycle,No violation of traffic lights,86,motorcycle,No violation of traffic lights,-0.4,141.141,140.741,170.3,True
+85,car,No violation of traffic lights,87,motorcycle,red-light running,6.406,146.647,153.053,175.5,True
+87,motorcycle,red-light running,90,bicycle,No violation of traffic lights,6.106,149.049,155.155,154.6,True
+87,motorcycle,red-light running,93,car,No violation of traffic lights,5.706,145.946,151.652,75.8,True
+87,motorcycle,red-light running,95,motorcycle,No violation of traffic lights,7.307,150.15,157.457,152.7,True
+94,bicycle,No violation of traffic lights,88,car,No violation of traffic lights,7.407,166.767,174.174,89.5,True
+96,bicycle,No violation of traffic lights,88,car,No violation of traffic lights,7.708,166.767,174.474,78.1,True
+88,car,No violation of traffic lights,97,tricycle,red-light running,4.505,174.875,179.379,89.7,True
+92,bicycle,red-light running,89,bicycle,No violation of traffic lights,0.801,152.052,152.853,131.2,True
+93,car,No violation of traffic lights,89,bicycle,No violation of traffic lights,4.104,152.152,156.256,145.3,True
+92,bicycle,red-light running,90,bicycle,No violation of traffic lights,1.201,152.953,154.154,126.8,True
+93,car,No violation of traffic lights,90,bicycle,No violation of traffic lights,5.806,153.954,159.76,46.8,True
+92,bicycle,red-light running,94,bicycle,No violation of traffic lights,8.408,153.554,161.962,132.1,True
+92,bicycle,red-light running,95,motorcycle,No violation of traffic lights,3.203,154.054,157.257,136.0,True
+93,car,No violation of traffic lights,95,motorcycle,No violation of traffic lights,5.506,155.355,160.861,25.1,True
+97,tricycle,red-light running,99,bicycle,No violation of traffic lights,8.408,179.379,187.788,89.5,True
+97,tricycle,red-light running,103,motorcycle,No violation of traffic lights,6.507,180.28,186.787,89.6,True
+101,car,No violation of traffic lights,98,motorcycle,red-light running,0.701,186.987,187.688,31.0,True
+98,motorcycle,red-light running,104,car,No violation of traffic lights,4.404,200.701,205.105,120.9,True
+100,car,No violation of traffic lights,99,bicycle,No violation of traffic lights,1.301,187.287,188.589,41.0,True
+99,bicycle,No violation of traffic lights,102,bicycle,red-light running,2.402,188.989,191.391,85.3,True
+100,car,No violation of traffic lights,102,bicycle,red-light running,3.103,186.086,189.189,27.4,True
+101,car,No violation of traffic lights,104,car,No violation of traffic lights,-0.2,185.986,185.786,121.9,True
+103,motorcycle,No violation of traffic lights,102,bicycle,red-light running,5.105,187.387,192.492,87.0,True
+102,bicycle,red-light running,108,motorcycle,red-light running,3.504,195.796,199.299,110.6,True
+104,car,No violation of traffic lights,108,motorcycle,red-light running,1.301,202.302,203.604,86.6,True
+104,car,No violation of traffic lights,112,bicycle,red-light running,9.61,201.902,211.512,159.8,True
+104,car,No violation of traffic lights,114,car,No violation of traffic lights,8.909,204.204,213.113,129.8,True
+105,car,No violation of traffic lights,108,motorcycle,red-light running,1.802,200.1,201.902,90.6,True
+107,bicycle,No violation of traffic lights,113,motorcycle,No violation of traffic lights,2.002,206.507,208.509,82.1,True
+121,bicycle,No violation of traffic lights,109,motorcycle,No violation of traffic lights,3.504,230.831,234.334,119.6,True
+109,motorcycle,No violation of traffic lights,122,motorcycle,red-light running,2.703,237.938,240.641,137.4,True
+109,motorcycle,No violation of traffic lights,132,motorcycle,red-light running,7.908,237.237,245.145,83.8,True
+121,bicycle,No violation of traffic lights,110,car,No violation of traffic lights,4.304,229.329,233.634,126.3,True
+110,car,No violation of traffic lights,122,motorcycle,red-light running,6.306,235.836,242.142,90.0,True
+112,bicycle,red-light running,111,tricycle,No violation of traffic lights,2.302,212.513,214.815,88.9,True
+114,car,No violation of traffic lights,111,tricycle,No violation of traffic lights,3.403,214.314,217.718,140.3,True
+111,tricycle,No violation of traffic lights,116,car,No violation of traffic lights,0.701,217.918,218.619,126.2,True
+111,tricycle,No violation of traffic lights,117,motorcycle,red-light running,7.307,213.013,220.32,86.5,True
+111,tricycle,No violation of traffic lights,120,motorcycle,yellow-light running,4.204,219.62,223.824,137.1,True
+111,tricycle,No violation of traffic lights,121,bicycle,No violation of traffic lights,9.91,217.718,227.628,142.5,True
+112,bicycle,red-light running,115,motorcycle,No violation of traffic lights,7.508,208.809,216.316,151.3,True
+112,bicycle,red-light running,118,car,No violation of traffic lights,4.505,215.415,219.92,90.0,True
+115,motorcycle,No violation of traffic lights,117,motorcycle,red-light running,0.4,216.517,216.917,153.6,True
+116,car,No violation of traffic lights,121,bicycle,No violation of traffic lights,7.207,220.32,227.528,95.9,True
+118,car,No violation of traffic lights,120,motorcycle,yellow-light running,3.403,218.018,221.421,40.0,True
+119,car,No violation of traffic lights,120,motorcycle,yellow-light running,0.1,219.72,219.82,27.1,True
+119,car,No violation of traffic lights,127,car,No violation of traffic lights,9.71,223.323,233.033,158.0,False
+120,motorcycle,yellow-light running,121,bicycle,No violation of traffic lights,0.801,225.726,226.527,91.9,True
+131,car,No violation of traffic lights,122,motorcycle,red-light running,4.004,239.139,243.143,90.0,True
+122,motorcycle,red-light running,141,motorcycle,yellow-light running,9.71,243.744,253.453,102.4,False
+133,car,No violation of traffic lights,123,car,No violation of traffic lights,8.709,248.248,256.957,149.3,True
+123,car,No violation of traffic lights,134,car,No violation of traffic lights,2.703,260.561,263.263,148.5,True
+141,motorcycle,yellow-light running,123,car,No violation of traffic lights,3.504,256.557,260.06,35.9,True
+124,car,No violation of traffic lights,134,car,No violation of traffic lights,0.601,262.763,263.363,147.1,True
+141,motorcycle,yellow-light running,124,car,No violation of traffic lights,5.506,256.757,262.262,34.1,True
+125,car,No violation of traffic lights,131,car,No violation of traffic lights,6.106,234.034,240.14,157.1,True
+127,car,No violation of traffic lights,131,car,No violation of traffic lights,4.204,236.236,240.44,159.5,True
+133,car,No violation of traffic lights,129,car,No violation of traffic lights,8.408,251.852,260.26,116.7,True
+141,motorcycle,yellow-light running,129,car,No violation of traffic lights,2.903,255.455,258.358,33.1,True
+129,car,No violation of traffic lights,143,car,No violation of traffic lights,2.202,260.961,263.163,87.7,True
+129,car,No violation of traffic lights,145,car,No violation of traffic lights,5.806,261.161,266.967,79.1,True
+131,car,No violation of traffic lights,132,motorcycle,red-light running,7.808,239.239,247.047,94.6,True
+131,car,No violation of traffic lights,133,car,No violation of traffic lights,2.503,241.441,243.944,148.4,True
+132,motorcycle,red-light running,141,motorcycle,yellow-light running,6.206,247.548,253.754,113.5,True
+133,car,No violation of traffic lights,135,bicycle,red-light running,8.609,245.045,253.654,116.1,True
+141,motorcycle,yellow-light running,134,car,No violation of traffic lights,6.707,255.856,262.563,123.2,True
+134,car,No violation of traffic lights,148,bicycle,No violation of traffic lights,7.207,266.366,273.574,112.9,True
+451,car,No violation of traffic lights,136,tricycle,No violation of traffic lights,8.709,880.581,889.289,30.7,True
+136,tricycle,No violation of traffic lights,456,car,No violation of traffic lights,2.102,891.992,894.094,35.7,True
+143,car,No violation of traffic lights,137,car,No violation of traffic lights,3.303,267.267,270.571,161.7,True
+145,car,No violation of traffic lights,137,car,No violation of traffic lights,1.802,269.469,271.271,159.4,True
+141,motorcycle,yellow-light running,139,car,No violation of traffic lights,5.606,254.755,260.36,116.2,True
+139,car,No violation of traffic lights,143,car,No violation of traffic lights,4.404,261.962,266.366,147.1,True
+139,car,No violation of traffic lights,145,car,No violation of traffic lights,6.206,262.262,268.468,146.9,True
+139,car,No violation of traffic lights,146,car,No violation of traffic lights,0.4,259.259,259.66,123.9,True
+150,car,No violation of traffic lights,140,car,No violation of traffic lights,1.602,289.59,291.191,152.7,True
+140,car,No violation of traffic lights,157,motorcycle,red-light running,6.907,291.792,298.699,90.0,True
+141,motorcycle,yellow-light running,144,car,No violation of traffic lights,8.408,254.855,263.263,118.3,True
+148,bicycle,No violation of traffic lights,142,motorcycle,red-light running,2.803,277.077,279.88,90.4,True
+142,motorcycle,red-light running,150,car,No violation of traffic lights,5.606,283.684,289.289,136.1,True
+151,car,No violation of traffic lights,142,motorcycle,red-light running,1.902,278.879,280.781,90.0,True
+144,car,No violation of traffic lights,143,car,No violation of traffic lights,1.101,265.065,266.166,131.2,True
+146,car,No violation of traffic lights,143,car,No violation of traffic lights,1.802,267.868,269.67,27.3,True
+143,car,No violation of traffic lights,147,motorcycle,No violation of traffic lights,4.004,268.669,272.673,128.1,True
+144,car,No violation of traffic lights,145,car,No violation of traffic lights,3.003,265.365,268.368,125.0,True
+146,car,No violation of traffic lights,145,car,No violation of traffic lights,4.204,267.868,272.072,29.8,True
+145,car,No violation of traffic lights,147,motorcycle,No violation of traffic lights,2.102,270.871,272.973,133.9,True
+147,motorcycle,No violation of traffic lights,157,motorcycle,red-light running,9.209,278.679,287.888,44.3,False
+148,bicycle,No violation of traffic lights,154,tricycle,No violation of traffic lights,9.409,277.778,287.187,91.8,True
+150,car,No violation of traffic lights,154,tricycle,No violation of traffic lights,0.2,290.49,290.691,140.3,True
+150,car,No violation of traffic lights,156,motorcycle,No violation of traffic lights,2.202,290.19,292.392,146.9,True
+150,car,No violation of traffic lights,157,motorcycle,red-light running,7.508,290.19,297.698,129.7,True
+151,car,No violation of traffic lights,154,tricycle,No violation of traffic lights,9.209,278.979,288.188,97.4,False
+154,tricycle,No violation of traffic lights,157,motorcycle,red-light running,6.006,291.792,297.798,89.1,True
+156,motorcycle,No violation of traffic lights,157,motorcycle,red-light running,5.105,292.993,298.098,84.4,True
+157,motorcycle,red-light running,160,bicycle,No violation of traffic lights,2.002,301.301,303.303,154.1,True
+157,motorcycle,red-light running,163,tricycle,No violation of traffic lights,6.707,300.901,307.608,90.8,True
+157,motorcycle,red-light running,165,motorcycle,No violation of traffic lights,6.807,308.909,315.716,46.5,False
+158,car,No violation of traffic lights,160,bicycle,No violation of traffic lights,4.805,296.496,301.301,120.8,True
+159,car,No violation of traffic lights,166,bicycle,red-light running,8.609,313.113,321.722,164.6,True
+160,bicycle,No violation of traffic lights,161,motorcycle,red-light running,5.105,304.104,309.209,152.6,True
+162,bicycle,No violation of traffic lights,160,bicycle,No violation of traffic lights,1.502,306.306,307.808,100.3,True
+160,bicycle,No violation of traffic lights,163,tricycle,No violation of traffic lights,2.603,305.105,307.708,59.7,True
+161,motorcycle,red-light running,162,bicycle,No violation of traffic lights,1.301,306.907,308.208,86.9,True
+163,tricycle,No violation of traffic lights,161,motorcycle,red-light running,0.801,308.008,308.809,90.0,True
+161,motorcycle,red-light running,165,motorcycle,No violation of traffic lights,3.003,312.412,315.415,28.5,True
+162,bicycle,No violation of traffic lights,166,bicycle,red-light running,5.806,310.611,316.416,112.3,True
+162,bicycle,No violation of traffic lights,170,motorcycle,red-light running,8.709,313.714,322.422,166.4,False
+163,tricycle,No violation of traffic lights,167,motorcycle,No violation of traffic lights,9.91,310.11,320.02,90.0,False
+164,car,No violation of traffic lights,166,bicycle,red-light running,4.304,317.518,321.822,164.1,True
+167,motorcycle,No violation of traffic lights,169,car,No violation of traffic lights,6.006,319.419,325.425,28.8,True
+169,car,No violation of traffic lights,172,bicycle,No violation of traffic lights,3.003,327.427,330.43,33.3,True
+169,car,No violation of traffic lights,174,bicycle,No violation of traffic lights,3.103,327.027,330.13,25.7,True
+170,motorcycle,red-light running,171,bicycle,No violation of traffic lights,6.406,325.626,332.032,170.3,True
+172,bicycle,No violation of traffic lights,176,car,No violation of traffic lights,3.904,331.431,335.335,30.6,True
+172,bicycle,No violation of traffic lights,177,motorcycle,red-light running,7.107,332.232,339.339,88.3,True
+173,car,No violation of traffic lights,177,motorcycle,red-light running,9.309,328.629,337.938,89.7,False
+174,bicycle,No violation of traffic lights,177,motorcycle,red-light running,6.507,332.533,339.039,88.3,True
+176,car,No violation of traffic lights,177,motorcycle,red-light running,1.201,338.539,339.74,29.7,True
+178,motorcycle,No violation of traffic lights,194,motorcycle,red-light running,2.603,383.383,385.986,57.2,True
+178,motorcycle,No violation of traffic lights,201,car,No violation of traffic lights,7.508,383.884,391.391,61.2,True
+184,motorcycle,No violation of traffic lights,180,bicycle,red-light running,3.403,361.261,364.665,177.3,True
+185,car,No violation of traffic lights,180,bicycle,red-light running,5.506,363.463,368.969,51.6,True
+186,car,No violation of traffic lights,180,bicycle,red-light running,0.3,363.964,364.264,141.1,True
+190,car,No violation of traffic lights,180,bicycle,red-light running,3.103,364.464,367.568,90.0,True
+180,bicycle,red-light running,192,car,yellow-light running,5.706,367.167,372.873,89.8,True
+180,bicycle,red-light running,193,car,yellow-light running,2.903,368.669,371.572,90.0,True
+180,bicycle,red-light running,198,bicycle,No violation of traffic lights,6.106,379.58,385.686,39.6,False
+180,bicycle,red-light running,199,tricycle,No violation of traffic lights,8.108,379.58,387.688,47.9,False
+181,car,No violation of traffic lights,184,motorcycle,No violation of traffic lights,2.503,354.955,357.457,37.7,True
+182,car,No violation of traffic lights,183,car,No violation of traffic lights,2.603,360.661,363.263,174.2,True
+183,car,No violation of traffic lights,185,car,No violation of traffic lights,0.1,365.866,365.966,92.3,True
+183,car,No violation of traffic lights,190,car,No violation of traffic lights,5.806,360.36,366.166,148.4,True
+184,motorcycle,No violation of traffic lights,186,car,No violation of traffic lights,1.001,361.461,362.462,52.8,True
+184,motorcycle,No violation of traffic lights,189,car,No violation of traffic lights,4.004,363.063,367.067,28.4,True
+188,bicycle,No violation of traffic lights,200,bicycle,red-light running,8.408,380.881,389.289,162.8,True
+188,bicycle,No violation of traffic lights,202,car,No violation of traffic lights,2.402,387.788,390.19,62.8,True
+190,car,No violation of traffic lights,191,bus,No violation of traffic lights,7.307,368.569,375.876,26.4,False
+191,bus,No violation of traffic lights,196,car,No violation of traffic lights,7.708,379.88,387.588,33.7,False
+192,car,yellow-light running,194,motorcycle,red-light running,7.708,371.972,379.68,32.0,True
+193,car,yellow-light running,194,motorcycle,red-light running,8.709,372.873,381.582,120.8,True
+194,motorcycle,red-light running,196,car,No violation of traffic lights,5.606,380.881,386.486,117.2,True
+194,motorcycle,red-light running,202,car,No violation of traffic lights,7.107,388.589,395.696,161.7,True
+194,motorcycle,red-light running,204,car,No violation of traffic lights,7.908,385.385,393.293,154.2,False
+195,car,No violation of traffic lights,197,motorcycle,No violation of traffic lights,0.901,387.487,388.388,168.9,True
+195,car,No violation of traffic lights,201,car,No violation of traffic lights,0.2,385.085,385.285,178.8,True
+196,car,No violation of traffic lights,200,bicycle,red-light running,9.51,383.984,393.493,151.5,True
+196,car,No violation of traffic lights,206,car,No violation of traffic lights,8.909,386.887,395.796,144.4,False
+197,motorcycle,No violation of traffic lights,200,bicycle,red-light running,6.306,386.286,392.593,148.8,True
+197,motorcycle,No violation of traffic lights,202,car,No violation of traffic lights,2.102,390.891,392.993,25.7,True
+197,motorcycle,No violation of traffic lights,204,car,No violation of traffic lights,6.707,389.389,396.096,146.8,True
+198,bicycle,No violation of traffic lights,200,bicycle,red-light running,0.801,390.591,391.391,160.5,True
+202,car,No violation of traffic lights,198,bicycle,No violation of traffic lights,1.502,393.594,395.095,58.4,True
+198,bicycle,No violation of traffic lights,204,car,No violation of traffic lights,3.003,394.595,397.598,168.5,True
+198,bicycle,No violation of traffic lights,208,motorcycle,red-light running,1.902,398.198,400.1,61.5,True
+200,bicycle,red-light running,199,tricycle,No violation of traffic lights,4.905,392.292,397.197,139.2,True
+204,car,No violation of traffic lights,199,tricycle,No violation of traffic lights,9.51,398.599,408.108,98.8,True
+205,car,No violation of traffic lights,199,tricycle,No violation of traffic lights,4.404,409.61,414.014,90.4,True
+210,car,No violation of traffic lights,199,tricycle,No violation of traffic lights,4.605,412.312,416.917,105.4,True
+199,tricycle,No violation of traffic lights,217,motorcycle,No violation of traffic lights,1.902,417.217,419.119,93.9,True
+199,tricycle,No violation of traffic lights,218,car,No violation of traffic lights,5.305,414.214,419.52,116.3,True
+199,tricycle,No violation of traffic lights,220,car,No violation of traffic lights,4.905,415.816,420.721,100.9,True
+201,car,No violation of traffic lights,200,bicycle,red-light running,5.906,387.387,393.293,151.2,True
+203,motorcycle,No violation of traffic lights,200,bicycle,red-light running,1.201,391.291,392.492,147.0,True
+200,bicycle,red-light running,208,motorcycle,red-light running,9.51,393.594,403.103,148.0,False
+201,car,No violation of traffic lights,202,car,No violation of traffic lights,1.001,393.193,394.194,138.0,True
+201,car,No violation of traffic lights,204,car,No violation of traffic lights,3.003,390.991,393.994,159.9,True
+202,car,No violation of traffic lights,203,motorcycle,No violation of traffic lights,3.103,393.694,396.797,60.7,True
+202,car,No violation of traffic lights,210,car,No violation of traffic lights,9.409,398.999,408.408,33.4,False
+203,motorcycle,No violation of traffic lights,204,car,No violation of traffic lights,1.001,396.296,397.297,117.9,True
+207,motorcycle,No violation of traffic lights,205,car,No violation of traffic lights,8.809,402.002,410.811,87.5,True
+205,car,No violation of traffic lights,208,motorcycle,red-light running,1.602,409.71,411.311,96.7,True
+210,car,No violation of traffic lights,208,motorcycle,red-light running,0.4,412.513,412.913,40.0,True
+208,motorcycle,red-light running,217,motorcycle,No violation of traffic lights,6.206,412.913,419.119,145.0,True
+208,motorcycle,red-light running,218,car,No violation of traffic lights,8.509,411.311,419.82,156.1,True
+208,motorcycle,red-light running,220,car,No violation of traffic lights,8.509,412.212,420.721,109.6,False
+210,car,No violation of traffic lights,217,motorcycle,No violation of traffic lights,6.406,411.411,417.818,27.2,False
+211,bicycle,No violation of traffic lights,223,motorcycle,No violation of traffic lights,4.805,427.528,432.332,82.8,False
+212,bicycle,No violation of traffic lights,218,car,No violation of traffic lights,4.905,418.719,423.624,120.0,True
+212,bicycle,No violation of traffic lights,219,motorcycle,No violation of traffic lights,6.707,419.72,426.426,122.7,True
+212,bicycle,No violation of traffic lights,222,car,No violation of traffic lights,3.203,424.925,428.128,41.2,True
+213,tricycle,No violation of traffic lights,218,car,No violation of traffic lights,0.601,422.222,422.823,135.0,True
+213,tricycle,No violation of traffic lights,219,motorcycle,No violation of traffic lights,2.603,423.123,425.726,134.1,True
+213,tricycle,No violation of traffic lights,222,car,No violation of traffic lights,0.801,427.928,428.729,30.0,True
+217,motorcycle,No violation of traffic lights,215,motorcycle,red-light running,6.006,422.122,428.128,79.0,True
+220,car,No violation of traffic lights,215,motorcycle,red-light running,6.406,422.723,429.129,80.6,True
+221,motorcycle,No violation of traffic lights,215,motorcycle,red-light running,4.204,426.126,430.33,93.0,True
+217,motorcycle,No violation of traffic lights,219,motorcycle,No violation of traffic lights,3.103,417.718,420.821,30.6,True
+218,car,No violation of traffic lights,221,motorcycle,No violation of traffic lights,4.104,423.524,427.628,163.0,True
+220,car,No violation of traffic lights,219,motorcycle,No violation of traffic lights,1.401,420.521,421.922,41.9,True
+219,motorcycle,No violation of traffic lights,221,motorcycle,No violation of traffic lights,4.004,425.225,429.229,154.2,True
+221,motorcycle,No violation of traffic lights,224,car,No violation of traffic lights,8.308,430.03,438.338,78.7,True
+222,car,No violation of traffic lights,224,car,No violation of traffic lights,3.103,428.028,431.131,55.5,False
+224,car,No violation of traffic lights,226,bicycle,red-light running,9.51,438.238,447.748,79.2,True
+224,car,No violation of traffic lights,227,bicycle,red-light running,9.81,438.038,447.848,79.9,True
+224,car,No violation of traffic lights,228,car,No violation of traffic lights,-0.3,439.239,438.939,80.9,True
+224,car,No violation of traffic lights,232,motorcycle,No violation of traffic lights,7.407,440.541,447.948,167.1,False
+226,bicycle,red-light running,225,car,No violation of traffic lights,3.904,447.447,451.351,88.4,True
+227,bicycle,red-light running,225,car,No violation of traffic lights,3.504,447.648,451.151,87.7,True
+225,car,No violation of traffic lights,229,motorcycle,red-light running,5.806,452.352,458.158,90.0,True
+228,car,No violation of traffic lights,226,bicycle,red-light running,2.903,444.645,447.548,89.5,True
+226,bicycle,red-light running,231,motorcycle,No violation of traffic lights,9.009,445.245,454.254,90.7,True
+226,bicycle,red-light running,232,motorcycle,No violation of traffic lights,2.803,448.949,451.752,87.5,True
+228,car,No violation of traffic lights,227,bicycle,red-light running,3.303,444.444,447.748,89.4,True
+227,bicycle,red-light running,231,motorcycle,No violation of traffic lights,9.009,445.445,454.454,94.9,True
+227,bicycle,red-light running,232,motorcycle,No violation of traffic lights,2.302,449.249,451.552,88.3,True
+231,motorcycle,No violation of traffic lights,229,motorcycle,red-light running,1.602,454.555,456.156,90.0,True
+232,motorcycle,No violation of traffic lights,229,motorcycle,red-light running,7.908,451.952,459.86,89.5,True
+230,car,No violation of traffic lights,236,bicycle,red-light running,5.806,471.972,477.778,90.6,True
+230,car,No violation of traffic lights,238,motorcycle,red-light running,0.601,469.069,469.67,91.5,True
+230,car,No violation of traffic lights,240,tricycle,No violation of traffic lights,2.202,470.771,472.973,149.0,True
+231,motorcycle,No violation of traffic lights,235,bicycle,red-light running,7.508,454.955,462.462,90.0,True
+233,car,No violation of traffic lights,234,bicycle,yellow-light running,3.003,461.862,464.865,29.5,True
+234,bicycle,yellow-light running,242,motorcycle,No violation of traffic lights,3.504,469.67,473.173,64.8,True
+235,bicycle,red-light running,238,motorcycle,red-light running,8.809,462.262,471.071,91.7,True
+240,tricycle,No violation of traffic lights,236,bicycle,red-light running,8.909,470.07,478.979,101.6,True
+236,bicycle,red-light running,258,motorcycle,No violation of traffic lights,2.002,486.887,488.889,57.7,False
+239,tricycle,No violation of traffic lights,238,motorcycle,red-light running,3.103,467.668,470.771,91.3,True
+238,motorcycle,red-light running,242,motorcycle,No violation of traffic lights,3.504,468.769,472.272,74.8,True
+238,motorcycle,red-light running,244,car,No violation of traffic lights,1.401,471.972,473.373,40.5,True
+238,motorcycle,red-light running,246,car,No violation of traffic lights,4.304,471.872,476.176,44.0,True
+238,motorcycle,red-light running,247,car,No violation of traffic lights,9.309,469.77,479.079,124.2,True
+239,tricycle,No violation of traffic lights,244,car,No violation of traffic lights,5.005,467.467,472.472,30.3,True
+239,tricycle,No violation of traffic lights,246,car,No violation of traffic lights,7.608,467.568,475.175,28.3,True
+239,tricycle,No violation of traffic lights,248,car,No violation of traffic lights,8.408,473.874,482.282,26.6,False
+240,tricycle,No violation of traffic lights,242,motorcycle,No violation of traffic lights,0.1,467.067,467.167,25.4,True
+244,car,No violation of traffic lights,240,tricycle,No violation of traffic lights,4.905,474.675,479.58,74.8,True
+246,car,No violation of traffic lights,240,tricycle,No violation of traffic lights,2.102,477.377,479.479,79.3,True
+251,car,No violation of traffic lights,241,car,No violation of traffic lights,1.802,501.702,503.504,151.5,True
+258,motorcycle,No violation of traffic lights,241,car,No violation of traffic lights,9.209,496.396,505.606,118.6,True
+241,car,No violation of traffic lights,260,bicycle,No violation of traffic lights,4.505,503.203,507.708,109.7,True
+261,motorcycle,No violation of traffic lights,241,car,No violation of traffic lights,1.201,504.505,505.706,112.2,True
+241,car,No violation of traffic lights,264,motorcycle,red-light running,9.71,505.005,514.715,98.7,True
+242,motorcycle,No violation of traffic lights,247,car,No violation of traffic lights,8.408,471.972,480.38,133.2,False
+243,motorcycle,red-light running,252,car,No violation of traffic lights,0.4,488.188,488.589,41.9,True
+253,motorcycle,No violation of traffic lights,243,motorcycle,red-light running,1.802,487.387,489.189,127.2,True
+243,motorcycle,red-light running,260,bicycle,No violation of traffic lights,9.109,492.292,501.401,164.2,True
+243,motorcycle,red-light running,262,car,No violation of traffic lights,0.4,501.001,501.401,56.0,True
+249,motorcycle,red-light running,245,bicycle,No violation of traffic lights,2.002,480.681,482.683,60.0,True
+245,bicycle,No violation of traffic lights,254,bicycle,red-light running,4.204,482.082,486.286,48.8,True
+245,bicycle,No violation of traffic lights,256,bicycle,No violation of traffic lights,6.206,483.283,489.489,73.7,False
+247,car,No violation of traffic lights,249,motorcycle,red-light running,4.905,480.681,485.586,123.1,True
+248,car,No violation of traffic lights,258,motorcycle,No violation of traffic lights,7.007,481.782,488.789,63.3,False
+249,motorcycle,red-light running,253,motorcycle,No violation of traffic lights,2.402,485.385,487.788,121.8,True
+255,bicycle,No violation of traffic lights,250,car,No violation of traffic lights,8.008,502.603,510.611,53.8,True
+250,car,No violation of traffic lights,260,bicycle,No violation of traffic lights,2.102,505.706,507.808,110.4,True
+250,car,No violation of traffic lights,264,motorcycle,red-light running,8.108,507.107,515.215,74.2,True
+251,car,No violation of traffic lights,255,bicycle,No violation of traffic lights,2.903,496.897,499.8,123.8,True
+257,tricycle,No violation of traffic lights,251,car,No violation of traffic lights,4.905,492.993,497.898,149.8,True
+251,car,No violation of traffic lights,260,bicycle,No violation of traffic lights,6.707,502.402,509.109,77.1,True
+252,car,No violation of traffic lights,254,bicycle,red-light running,1.602,490.29,491.892,34.3,True
+253,motorcycle,No violation of traffic lights,254,bicycle,red-light running,6.907,487.788,494.695,117.2,True
+254,bicycle,red-light running,260,bicycle,No violation of traffic lights,8.208,494.895,503.103,162.5,True
+254,bicycle,red-light running,262,car,No violation of traffic lights,0.501,501.502,502.002,46.7,True
+257,tricycle,No violation of traffic lights,255,bicycle,No violation of traffic lights,7.107,494.695,501.802,38.2,True
+259,car,No violation of traffic lights,255,bicycle,No violation of traffic lights,0.801,497.197,497.998,141.4,True
+255,bicycle,No violation of traffic lights,261,motorcycle,No violation of traffic lights,1.301,499.299,500.601,142.0,True
+255,bicycle,No violation of traffic lights,262,car,No violation of traffic lights,1.702,503.504,505.205,39.0,True
+256,bicycle,No violation of traffic lights,265,bicycle,No violation of traffic lights,9.81,498.198,508.008,136.4,False
+257,tricycle,No violation of traffic lights,258,motorcycle,No violation of traffic lights,3.504,491.491,494.995,131.1,True
+261,motorcycle,No violation of traffic lights,260,bicycle,No violation of traffic lights,5.405,506.306,511.712,89.3,True
+261,motorcycle,No violation of traffic lights,264,motorcycle,red-light running,7.708,505.305,513.013,88.0,True
+265,bicycle,No violation of traffic lights,263,bicycle,No violation of traffic lights,2.603,510.511,513.113,174.1,True
+268,bicycle,No violation of traffic lights,269,tricycle,No violation of traffic lights,2.703,532.933,535.636,47.6,True
+268,bicycle,No violation of traffic lights,270,tricycle,No violation of traffic lights,3.403,533.734,537.137,148.2,True
+270,tricycle,No violation of traffic lights,271,car,No violation of traffic lights,9.109,554.054,563.163,75.8,True
+270,tricycle,No violation of traffic lights,272,car,No violation of traffic lights,7.307,551.351,558.659,106.8,True
+270,tricycle,No violation of traffic lights,275,motorcycle,red-light running,5.005,545.546,550.551,109.9,True
+270,tricycle,No violation of traffic lights,277,bicycle,red-light running,5.105,546.647,551.752,102.7,True
+280,car,No violation of traffic lights,270,tricycle,No violation of traffic lights,4.204,550.551,554.755,103.8,True
+270,tricycle,No violation of traffic lights,283,motorcycle,No violation of traffic lights,5.606,548.048,553.654,96.9,True
+276,bicycle,No violation of traffic lights,271,car,No violation of traffic lights,7.207,553.153,560.36,89.5,True
+278,car,No violation of traffic lights,271,car,No violation of traffic lights,9.009,550.15,559.159,142.7,True
+281,car,No violation of traffic lights,271,car,No violation of traffic lights,9.91,551.852,561.762,90.0,True
+271,car,No violation of traffic lights,285,motorcycle,red-light running,1.301,559.359,560.661,155.8,True
+279,motorcycle,red-light running,272,car,No violation of traffic lights,3.804,557.157,560.961,149.9,True
+281,car,No violation of traffic lights,272,car,No violation of traffic lights,7.908,552.452,560.36,90.0,True
+273,bicycle,No violation of traffic lights,274,bus,No violation of traffic lights,1.702,543.343,545.045,133.0,True
+273,bicycle,No violation of traffic lights,278,car,No violation of traffic lights,3.904,543.844,547.748,133.4,True
+274,bus,No violation of traffic lights,276,bicycle,No violation of traffic lights,3.904,546.847,550.751,133.4,True
+274,bus,No violation of traffic lights,279,motorcycle,red-light running,6.707,546.947,553.654,103.4,True
+276,bicycle,No violation of traffic lights,275,motorcycle,red-light running,8.909,548.949,557.858,92.0,True
+275,motorcycle,red-light running,279,motorcycle,red-light running,2.803,555.255,558.058,107.4,True
+281,car,No violation of traffic lights,275,motorcycle,red-light running,1.101,553.053,554.154,90.6,True
+278,car,No violation of traffic lights,276,bicycle,No violation of traffic lights,2.402,549.349,551.752,132.7,True
+276,bicycle,No violation of traffic lights,279,motorcycle,red-light running,2.002,552.252,554.254,128.0,True
+276,bicycle,No violation of traffic lights,283,motorcycle,No violation of traffic lights,7.107,549.95,557.057,93.4,True
+276,bicycle,No violation of traffic lights,284,bicycle,No violation of traffic lights,-0.3,558.959,558.659,32.1,True
+276,bicycle,No violation of traffic lights,285,motorcycle,red-light running,1.101,555.255,556.356,123.4,True
+276,bicycle,No violation of traffic lights,286,motorcycle,No violation of traffic lights,1.101,558.759,559.86,29.5,True
+276,bicycle,No violation of traffic lights,288,motorcycle,No violation of traffic lights,4.204,558.058,562.262,53.8,True
+276,bicycle,No violation of traffic lights,291,tricycle,red-light running,6.507,560.561,567.067,174.2,False
+277,bicycle,red-light running,279,motorcycle,red-light running,0.701,557.057,557.758,110.9,True
+281,car,No violation of traffic lights,277,bicycle,red-light running,2.903,552.853,555.756,85.2,True
+278,car,No violation of traffic lights,279,motorcycle,red-light running,3.504,549.65,553.153,108.4,True
+283,motorcycle,No violation of traffic lights,279,motorcycle,red-light running,1.101,556.056,557.157,132.9,True
+279,motorcycle,red-light running,285,motorcycle,red-light running,7.207,551.952,559.159,120.5,True
+279,motorcycle,red-light running,287,bicycle,No violation of traffic lights,4.805,558.559,563.363,104.6,True
+281,car,No violation of traffic lights,283,motorcycle,No violation of traffic lights,2.603,552.653,555.255,90.1,True
+284,bicycle,No violation of traffic lights,288,motorcycle,No violation of traffic lights,-0.1,559.159,559.059,86.0,True
+284,bicycle,No violation of traffic lights,291,tricycle,red-light running,8.208,560.26,568.468,152.5,False
+285,motorcycle,red-light running,289,motorcycle,No violation of traffic lights,6.707,560.761,567.467,162.9,True
+286,motorcycle,No violation of traffic lights,291,tricycle,red-light running,7.508,561.461,568.969,151.1,False
+288,motorcycle,No violation of traffic lights,291,tricycle,red-light running,7.107,562.863,569.97,138.2,False
+289,motorcycle,No violation of traffic lights,291,tricycle,red-light running,8.108,568.068,576.176,175.9,True
+289,motorcycle,No violation of traffic lights,296,motorcycle,No violation of traffic lights,6.707,575.776,582.482,63.3,False
+290,car,No violation of traffic lights,303,car,No violation of traffic lights,1.001,590.791,591.792,149.5,True
+294,motorcycle,No violation of traffic lights,295,bicycle,No violation of traffic lights,3.604,576.176,579.78,147.7,True
+296,motorcycle,No violation of traffic lights,295,bicycle,No violation of traffic lights,4.304,581.882,586.186,127.6,True
+295,bicycle,No violation of traffic lights,306,car,No violation of traffic lights,9.009,586.887,595.896,118.5,False
+314,bicycle,No violation of traffic lights,297,car,No violation of traffic lights,3.604,614.314,617.918,89.3,True
+315,tricycle,yellow-light running,297,car,No violation of traffic lights,0.801,619.119,619.92,25.8,True
+299,bicycle,No violation of traffic lights,298,motorcycle,red-light running,2.703,597.297,600.0,72.5,True
+300,car,No violation of traffic lights,298,motorcycle,red-light running,8.408,593.493,601.902,89.9,True
+301,bicycle,No violation of traffic lights,298,motorcycle,red-light running,1.602,598.298,599.9,74.7,True
+305,car,No violation of traffic lights,298,motorcycle,red-light running,5.105,596.897,602.002,89.9,True
+308,car,No violation of traffic lights,298,motorcycle,red-light running,2.703,598.298,601.001,90.2,True
+309,car,No violation of traffic lights,298,motorcycle,red-light running,3.103,598.999,602.102,89.9,True
+310,motorcycle,red-light running,298,motorcycle,red-light running,2.002,602.002,604.004,139.4,True
+298,motorcycle,red-light running,312,motorcycle,No violation of traffic lights,1.802,601.201,603.003,90.7,True
+299,bicycle,No violation of traffic lights,306,car,No violation of traffic lights,1.902,592.392,594.294,33.5,True
+303,car,No violation of traffic lights,300,car,No violation of traffic lights,1.902,593.393,595.295,151.0,True
+301,bicycle,No violation of traffic lights,306,car,No violation of traffic lights,0.601,593.694,594.294,34.7,True
+314,bicycle,No violation of traffic lights,302,car,No violation of traffic lights,6.006,614.214,620.22,89.3,True
+303,car,No violation of traffic lights,305,car,No violation of traffic lights,4.905,593.493,598.398,148.6,True
+303,car,No violation of traffic lights,309,car,No violation of traffic lights,6.607,593.694,600.3,144.8,True
+303,car,No violation of traffic lights,310,motorcycle,red-light running,3.203,595.896,599.099,126.5,True
+310,motorcycle,red-light running,304,bicycle,No violation of traffic lights,2.803,599.399,602.202,126.3,True
+304,bicycle,No violation of traffic lights,311,car,No violation of traffic lights,6.607,601.702,608.308,132.3,True
+305,car,No violation of traffic lights,310,motorcycle,red-light running,8.308,595.696,604.004,135.6,True
+306,car,No violation of traffic lights,313,motorcycle,red-light running,5.906,599.199,605.105,39.7,False
+314,bicycle,No violation of traffic lights,307,bicycle,red-light running,2.603,612.212,614.815,107.7,True
+307,bicycle,red-light running,318,car,No violation of traffic lights,7.808,609.51,617.317,138.4,True
+309,car,No violation of traffic lights,310,motorcycle,red-light running,5.806,597.998,603.804,133.3,True
+311,car,No violation of traffic lights,318,car,No violation of traffic lights,2.302,615.015,617.317,59.1,False
+314,bicycle,No violation of traffic lights,313,motorcycle,red-light running,1.902,608.809,610.711,157.0,True
+314,bicycle,No violation of traffic lights,316,car,No violation of traffic lights,6.306,613.313,619.62,92.9,True
+314,bicycle,No violation of traffic lights,317,motorcycle,No violation of traffic lights,6.106,615.415,621.522,88.8,True
+315,tricycle,yellow-light running,316,car,No violation of traffic lights,1.301,617.017,618.318,127.6,True
+315,tricycle,yellow-light running,321,car,No violation of traffic lights,8.308,619.119,627.427,26.6,True
+317,motorcycle,No violation of traffic lights,320,motorcycle,red-light running,7.708,623.524,631.231,92.4,True
+318,car,No violation of traffic lights,320,motorcycle,red-light running,8.809,626.326,635.135,27.9,True
+318,car,No violation of traffic lights,324,motorcycle,No violation of traffic lights,2.603,623.724,626.326,124.0,True
+330,motorcycle,No violation of traffic lights,319,car,No violation of traffic lights,7.107,642.442,649.55,90.0,True
+331,motorcycle,red-light running,319,car,No violation of traffic lights,7.708,643.944,651.652,137.5,True
+319,car,No violation of traffic lights,338,car,No violation of traffic lights,5.105,652.452,657.558,151.5,True
+321,car,No violation of traffic lights,320,motorcycle,red-light running,4.905,627.928,632.833,93.0,True
+323,car,No violation of traffic lights,320,motorcycle,red-light running,1.301,630.631,631.932,90.0,True
+324,motorcycle,No violation of traffic lights,320,motorcycle,red-light running,3.704,631.031,634.735,83.9,True
+320,motorcycle,red-light running,327,car,No violation of traffic lights,3.904,633.734,637.638,95.0,True
+320,motorcycle,red-light running,331,motorcycle,red-light running,9.51,634.735,644.244,136.0,False
+323,car,No violation of traffic lights,325,bicycle,red-light running,6.707,630.531,637.237,95.1,True
+327,car,No violation of traffic lights,325,bicycle,red-light running,0.4,638.238,638.639,91.5,True
+325,bicycle,red-light running,330,motorcycle,No violation of traffic lights,4.705,637.938,642.643,94.1,True
+325,bicycle,red-light running,331,motorcycle,red-light running,3.103,641.341,644.444,123.2,True
+326,car,No violation of traffic lights,331,motorcycle,red-light running,8.008,633.333,641.341,37.5,False
+330,motorcycle,No violation of traffic lights,329,car,No violation of traffic lights,7.608,641.842,649.449,89.4,True
+331,motorcycle,red-light running,329,car,No violation of traffic lights,3.403,642.643,646.046,29.9,True
+329,car,No violation of traffic lights,336,car,No violation of traffic lights,5.506,650.35,655.856,149.0,False
+331,motorcycle,red-light running,333,car,No violation of traffic lights,7.708,642.643,650.35,30.3,True
+331,motorcycle,red-light running,335,bicycle,No violation of traffic lights,7.708,651.051,658.759,125.9,False
+332,car,No violation of traffic lights,338,car,No violation of traffic lights,2.202,655.055,657.257,152.0,True
+333,car,No violation of traffic lights,336,car,No violation of traffic lights,1.401,654.555,655.956,148.0,True
+334,motorcycle,red-light running,336,car,No violation of traffic lights,1.401,658.058,659.459,88.1,True
+335,bicycle,No violation of traffic lights,338,car,No violation of traffic lights,4.805,660.16,664.965,129.5,True
+336,car,No violation of traffic lights,339,bicycle,No violation of traffic lights,2.903,658.659,661.562,143.6,True
+336,car,No violation of traffic lights,343,car,No violation of traffic lights,5.005,657.758,662.763,156.7,True
+336,car,No violation of traffic lights,345,car,No violation of traffic lights,6.707,658.358,665.065,151.3,True
+343,car,No violation of traffic lights,337,bicycle,No violation of traffic lights,9.109,664.565,673.674,84.6,True
+345,car,No violation of traffic lights,337,bicycle,No violation of traffic lights,7.407,666.967,674.374,30.5,True
+347,motorcycle,No violation of traffic lights,337,bicycle,No violation of traffic lights,3.504,675.275,678.779,103.4,True
+337,bicycle,No violation of traffic lights,351,car,No violation of traffic lights,8.308,677.177,685.485,50.0,True
+337,bicycle,No violation of traffic lights,355,car,No violation of traffic lights,4.304,682.983,687.287,167.1,True
+337,bicycle,No violation of traffic lights,358,car,No violation of traffic lights,6.106,683.283,689.389,163.2,True
+340,bicycle,No violation of traffic lights,338,car,No violation of traffic lights,0.901,658.258,659.159,132.2,True
+338,car,No violation of traffic lights,342,car,No violation of traffic lights,0.601,659.86,660.46,152.0,True
+338,car,No violation of traffic lights,346,bicycle,No violation of traffic lights,8.509,660.561,669.069,130.1,True
+344,bicycle,red-light running,351,car,No violation of traffic lights,5.005,680.18,685.185,127.6,True
+344,bicycle,red-light running,353,car,No violation of traffic lights,9.209,680.28,689.489,123.2,True
+344,bicycle,red-light running,354,bicycle,red-light running,7.007,681.381,688.388,84.8,True
+348,motorcycle,No violation of traffic lights,346,bicycle,No violation of traffic lights,5.506,669.77,675.275,26.6,True
+346,bicycle,No violation of traffic lights,350,motorcycle,No violation of traffic lights,1.401,673.373,674.775,102.4,True
+347,motorcycle,No violation of traffic lights,350,motorcycle,No violation of traffic lights,8.609,668.468,677.077,87.1,True
+347,motorcycle,No violation of traffic lights,352,car,No violation of traffic lights,7.307,670.671,677.978,122.0,True
+348,motorcycle,No violation of traffic lights,350,motorcycle,No violation of traffic lights,0.2,667.367,667.568,125.1,True
+352,car,No violation of traffic lights,349,car,No violation of traffic lights,4.304,678.879,683.183,159.7,True
+350,motorcycle,No violation of traffic lights,352,car,No violation of traffic lights,2.102,676.977,679.079,127.9,True
+350,motorcycle,No violation of traffic lights,356,car,No violation of traffic lights,6.907,675.475,682.382,130.9,False
+351,car,No violation of traffic lights,354,bicycle,red-light running,6.406,684.985,691.391,120.8,True
+351,car,No violation of traffic lights,355,car,No violation of traffic lights,0.601,687.588,688.188,30.0,True
+351,car,No violation of traffic lights,358,car,No violation of traffic lights,2.603,687.588,690.19,30.1,True
+351,car,No violation of traffic lights,361,motorcycle,red-light running,6.707,686.887,693.594,131.6,False
+352,car,No violation of traffic lights,356,car,No violation of traffic lights,6.607,681.782,688.388,33.4,False
+353,car,No violation of traffic lights,354,bicycle,red-light running,2.603,689.189,691.792,126.1,True
+353,car,No violation of traffic lights,361,motorcycle,red-light running,0.601,692.893,693.493,138.8,True
+356,car,No violation of traffic lights,354,bicycle,red-light running,8.609,688.488,697.097,48.3,True
+359,bicycle,No violation of traffic lights,354,bicycle,red-light running,2.202,697.297,699.499,25.9,True
+354,bicycle,red-light running,362,motorcycle,No violation of traffic lights,4.905,695.195,700.1,127.8,True
+354,bicycle,red-light running,371,car,No violation of traffic lights,9.009,700.1,709.109,35.9,True
+355,car,No violation of traffic lights,361,motorcycle,red-light running,6.807,688.388,695.195,173.2,False
+356,car,No violation of traffic lights,362,motorcycle,No violation of traffic lights,4.805,686.787,691.592,139.0,False
+358,car,No violation of traffic lights,361,motorcycle,red-light running,5.405,690.09,695.495,173.5,True
+360,bicycle,No violation of traffic lights,367,motorcycle,No violation of traffic lights,2.603,697.998,700.601,51.6,False
+361,motorcycle,red-light running,362,motorcycle,No violation of traffic lights,8.509,695.596,704.104,127.1,True
+363,car,No violation of traffic lights,361,motorcycle,red-light running,3.804,695.796,699.6,147.2,True
+361,motorcycle,red-light running,364,car,No violation of traffic lights,1.702,702.402,704.104,85.9,True
+361,motorcycle,red-light running,368,car,red-light running,1.201,700.501,701.702,145.9,True
+361,motorcycle,red-light running,370,bicycle,No violation of traffic lights,5.405,702.402,707.808,28.1,True
+362,motorcycle,No violation of traffic lights,364,car,No violation of traffic lights,3.303,704.104,707.407,123.6,True
+365,car,No violation of traffic lights,362,motorcycle,No violation of traffic lights,1.802,702.202,704.004,32.7,True
+362,motorcycle,No violation of traffic lights,367,motorcycle,No violation of traffic lights,5.506,695.095,700.601,96.3,True
+370,bicycle,No violation of traffic lights,362,motorcycle,No violation of traffic lights,3.403,703.203,706.607,152.1,True
+362,motorcycle,No violation of traffic lights,371,car,No violation of traffic lights,8.108,698.799,706.907,30.1,True
+362,motorcycle,No violation of traffic lights,373,motorcycle,No violation of traffic lights,7.808,701.201,709.009,131.6,True
+362,motorcycle,No violation of traffic lights,375,car,No violation of traffic lights,9.109,703.704,712.813,125.6,False
+363,car,No violation of traffic lights,372,car,No violation of traffic lights,6.106,701.702,707.808,129.1,False
+363,car,No violation of traffic lights,374,car,No violation of traffic lights,4.204,704.004,708.208,30.9,False
+368,car,red-light running,364,car,No violation of traffic lights,6.306,704.204,710.511,123.1,True
+364,car,No violation of traffic lights,370,bicycle,No violation of traffic lights,0.2,715.015,715.215,47.7,True
+364,car,No violation of traffic lights,378,car,No violation of traffic lights,8.509,709.109,717.618,156.2,True
+368,car,red-light running,370,bicycle,No violation of traffic lights,8.308,702.903,711.211,134.0,True
+368,car,red-light running,372,car,No violation of traffic lights,0.801,706.507,707.307,130.5,True
+368,car,red-light running,374,car,No violation of traffic lights,0.4,707.808,708.208,27.7,False
+368,car,red-light running,378,car,No violation of traffic lights,7.908,706.406,714.314,140.6,False
+374,car,No violation of traffic lights,369,truck,No violation of traffic lights,2.302,739.74,742.042,157.5,True
+385,car,yellow-light running,369,truck,No violation of traffic lights,4.004,735.536,739.54,136.6,True
+369,truck,No violation of traffic lights,388,motorcycle,red-light running,9.309,740.34,749.65,89.8,True
+369,truck,No violation of traffic lights,390,motorcycle,No violation of traffic lights,8.108,742.242,750.35,26.0,True
+370,bicycle,No violation of traffic lights,375,car,No violation of traffic lights,2.102,717.217,719.319,164.7,True
+370,bicycle,No violation of traffic lights,377,car,No violation of traffic lights,5.105,715.115,720.22,120.9,True
+373,motorcycle,No violation of traffic lights,372,car,No violation of traffic lights,1.001,709.71,710.711,129.3,True
+383,motorcycle,No violation of traffic lights,374,car,No violation of traffic lights,2.102,737.538,739.64,132.3,True
+385,car,yellow-light running,374,car,No violation of traffic lights,6.306,733.834,740.14,137.1,True
+374,car,No violation of traffic lights,389,car,No violation of traffic lights,8.709,739.74,748.448,158.3,True
+375,car,No violation of traffic lights,378,car,No violation of traffic lights,1.802,715.215,717.017,153.9,True
+377,car,No violation of traffic lights,378,car,No violation of traffic lights,0.801,716.817,717.618,158.6,True
+379,motorcycle,No violation of traffic lights,381,car,No violation of traffic lights,4.705,725.125,729.83,173.4,True
+381,car,No violation of traffic lights,386,bicycle,No violation of traffic lights,4.004,731.632,735.636,169.6,True
+382,car,No violation of traffic lights,383,motorcycle,No violation of traffic lights,4.404,733.634,738.038,34.6,True
+385,car,yellow-light running,383,motorcycle,No violation of traffic lights,2.002,734.334,736.336,118.5,True
+384,car,No violation of traffic lights,387,car,No violation of traffic lights,6.106,738.338,744.444,138.2,True
+384,car,No violation of traffic lights,388,motorcycle,red-light running,8.509,738.739,747.247,67.8,True
+385,car,yellow-light running,387,car,No violation of traffic lights,6.907,735.836,742.743,132.0,True
+387,car,No violation of traffic lights,388,motorcycle,red-light running,4.705,744.244,748.949,103.6,True
+389,car,No violation of traffic lights,388,motorcycle,red-light running,2.202,747.247,749.449,90.0,True
+390,motorcycle,No violation of traffic lights,388,motorcycle,red-light running,1.101,749.349,750.45,86.2,True
+388,motorcycle,red-light running,392,car,No violation of traffic lights,0.701,753.153,753.854,31.1,True
+388,motorcycle,red-light running,393,bicycle,No violation of traffic lights,9.81,752.052,761.862,125.9,True
+388,motorcycle,red-light running,394,motorcycle,No violation of traffic lights,7.808,751.251,759.059,81.2,True
+389,car,No violation of traffic lights,390,motorcycle,No violation of traffic lights,1.502,748.849,750.35,27.0,True
+390,motorcycle,No violation of traffic lights,392,car,No violation of traffic lights,1.301,748.549,749.85,94.6,True
+390,motorcycle,No violation of traffic lights,397,car,No violation of traffic lights,6.406,752.653,759.059,120.5,False
+390,motorcycle,No violation of traffic lights,398,motorcycle,No violation of traffic lights,8.809,755.255,764.064,171.8,False
+392,car,No violation of traffic lights,394,motorcycle,No violation of traffic lights,0.0,753.754,753.754,112.9,True
+393,bicycle,No violation of traffic lights,396,car,No violation of traffic lights,7.207,764.765,771.972,70.9,True
+393,bicycle,No violation of traffic lights,400,bicycle,No violation of traffic lights,2.703,770.37,773.073,54.7,True
+393,bicycle,No violation of traffic lights,401,bicycle,No violation of traffic lights,4.505,769.57,774.074,161.3,True
+393,bicycle,No violation of traffic lights,403,bicycle,No violation of traffic lights,3.403,770.871,774.274,44.8,True
+394,motorcycle,No violation of traffic lights,400,bicycle,No violation of traffic lights,9.81,765.766,775.576,137.5,False
+394,motorcycle,No violation of traffic lights,401,bicycle,No violation of traffic lights,9.61,765.766,775.375,80.2,False
+395,bicycle,red-light running,396,car,No violation of traffic lights,4.304,762.462,766.767,35.4,True
+397,car,No violation of traffic lights,395,bicycle,red-light running,4.805,759.86,764.665,124.0,True
+395,bicycle,red-light running,400,bicycle,No violation of traffic lights,0.601,775.475,776.076,28.5,True
+395,bicycle,red-light running,401,bicycle,No violation of traffic lights,3.003,773.373,776.376,46.8,True
+395,bicycle,red-light running,403,bicycle,No violation of traffic lights,-0.2,776.777,776.577,27.1,True
+397,car,No violation of traffic lights,396,car,No violation of traffic lights,8.609,760.26,768.869,90.0,True
+396,car,No violation of traffic lights,405,motorcycle,red-light running,7.608,772.272,779.88,85.0,True
+401,bicycle,No violation of traffic lights,405,motorcycle,red-light running,1.201,780.981,782.182,135.6,True
+402,car,No violation of traffic lights,416,bicycle,red-light running,9.309,806.306,815.616,28.3,True
+405,motorcycle,red-light running,407,tricycle,No violation of traffic lights,6.106,780.08,786.186,84.5,True
+405,motorcycle,red-light running,409,car,No violation of traffic lights,4.204,780.681,784.885,114.5,True
+407,tricycle,No violation of traffic lights,409,car,No violation of traffic lights,0.3,786.286,786.587,135.6,True
+546,motorcycle,No violation of traffic lights,410,motorcycle,No violation of traffic lights,7.307,1060.961,1068.268,133.8,True
+547,bicycle,No violation of traffic lights,410,motorcycle,No violation of traffic lights,5.506,1063.664,1069.169,90.0,True
+549,motorcycle,red-light running,410,motorcycle,No violation of traffic lights,5.606,1068.669,1074.274,80.0,True
+410,motorcycle,No violation of traffic lights,554,bicycle,red-light running,4.204,1075.075,1079.279,77.7,True
+556,motorcycle,red-light running,410,motorcycle,No violation of traffic lights,0.3,1072.873,1073.173,77.8,True
+410,motorcycle,No violation of traffic lights,558,car,No violation of traffic lights,9.309,1073.373,1082.683,133.7,False
+413,car,No violation of traffic lights,411,motorcycle,No violation of traffic lights,-0.1,802.402,802.302,156.7,True
+411,motorcycle,No violation of traffic lights,416,bicycle,red-light running,9.109,801.401,810.511,58.2,True
+412,car,No violation of traffic lights,416,bicycle,red-light running,3.904,811.612,815.516,30.3,True
+413,car,No violation of traffic lights,416,bicycle,red-light running,7.508,799.299,806.807,34.5,False
+414,motorcycle,No violation of traffic lights,416,bicycle,red-light running,9.91,804.104,814.014,85.4,True
+415,car,No violation of traffic lights,420,bicycle,No violation of traffic lights,9.409,833.333,842.743,32.5,True
+415,car,No violation of traffic lights,421,bicycle,No violation of traffic lights,6.707,833.333,840.04,26.2,True
+415,car,No violation of traffic lights,422,bicycle,yellow-light running,2.202,829.73,831.932,90.1,True
+415,car,No violation of traffic lights,423,bicycle,red-light running,1.301,831.932,833.233,72.8,True
+424,motorcycle,yellow-light running,415,car,No violation of traffic lights,6.807,826.126,832.933,26.5,True
+429,motorcycle,No violation of traffic lights,415,car,No violation of traffic lights,2.903,828.829,831.732,156.5,True
+419,tricycle,No violation of traffic lights,416,bicycle,red-light running,3.003,813.313,816.316,51.7,True
+423,bicycle,red-light running,417,bicycle,red-light running,7.808,826.527,834.334,133.3,True
+425,motorcycle,red-light running,417,bicycle,red-light running,6.206,835.936,842.142,57.4,True
+428,motorcycle,No violation of traffic lights,417,bicycle,red-light running,8.308,831.932,840.24,177.0,True
+417,bicycle,red-light running,430,bicycle,No violation of traffic lights,7.608,838.138,845.746,120.0,True
+417,bicycle,red-light running,431,car,No violation of traffic lights,7.307,839.239,846.547,127.2,True
+418,car,No violation of traffic lights,424,motorcycle,yellow-light running,8.909,817.117,826.026,37.2,False
+419,tricycle,No violation of traffic lights,424,motorcycle,yellow-light running,4.104,818.118,822.222,159.5,True
+429,motorcycle,No violation of traffic lights,420,bicycle,No violation of traffic lights,6.807,829.83,836.637,155.9,True
+420,bicycle,No violation of traffic lights,436,bicycle,yellow-light running,8.509,841.642,850.15,169.5,False
+421,bicycle,No violation of traffic lights,422,bicycle,yellow-light running,3.203,830.631,833.834,91.4,True
+423,bicycle,red-light running,421,bicycle,No violation of traffic lights,2.002,835.435,837.437,84.0,True
+429,motorcycle,No violation of traffic lights,421,bicycle,No violation of traffic lights,8.408,829.329,837.738,176.5,True
+421,bicycle,No violation of traffic lights,436,bicycle,yellow-light running,2.803,845.145,847.948,172.0,False
+426,bicycle,No violation of traffic lights,422,bicycle,yellow-light running,0.2,828.028,828.228,76.0,True
+427,car,No violation of traffic lights,422,bicycle,yellow-light running,2.703,832.633,835.335,50.8,True
+422,bicycle,yellow-light running,428,motorcycle,No violation of traffic lights,4.805,825.726,830.531,143.9,True
+422,bicycle,yellow-light running,430,bicycle,No violation of traffic lights,7.908,831.231,839.139,119.9,True
+424,motorcycle,yellow-light running,423,bicycle,red-light running,4.004,823.724,827.728,34.6,True
+423,bicycle,red-light running,426,bicycle,No violation of traffic lights,1.201,831.031,832.232,144.8,True
+423,bicycle,red-light running,437,bicycle,No violation of traffic lights,3.504,844.945,848.448,128.3,False
+424,motorcycle,yellow-light running,426,bicycle,No violation of traffic lights,8.609,824.725,833.333,36.5,True
+424,motorcycle,yellow-light running,429,motorcycle,No violation of traffic lights,0.801,825.926,826.727,142.5,False
+426,bicycle,No violation of traffic lights,425,motorcycle,red-light running,9.81,826.827,836.637,124.4,True
+427,car,No violation of traffic lights,425,motorcycle,red-light running,7.808,832.132,839.94,42.1,True
+428,motorcycle,No violation of traffic lights,425,motorcycle,red-light running,5.305,830.13,835.435,129.2,True
+430,bicycle,No violation of traffic lights,425,motorcycle,red-light running,0.4,837.938,838.338,117.2,True
+425,motorcycle,red-light running,431,car,No violation of traffic lights,3.203,839.54,842.743,118.6,True
+425,motorcycle,red-light running,433,motorcycle,No violation of traffic lights,9.61,838.739,848.348,124.1,True
+429,motorcycle,No violation of traffic lights,427,car,No violation of traffic lights,0.2,834.334,834.535,32.3,True
+431,car,No violation of traffic lights,440,bicycle,No violation of traffic lights,8.408,850.05,858.458,144.2,False
+431,car,No violation of traffic lights,442,motorcycle,No violation of traffic lights,7.007,849.449,856.456,170.4,False
+433,motorcycle,No violation of traffic lights,432,car,No violation of traffic lights,9.209,853.854,863.063,53.8,True
+436,bicycle,yellow-light running,432,car,No violation of traffic lights,2.002,856.957,858.959,117.5,True
+440,bicycle,No violation of traffic lights,432,car,No violation of traffic lights,5.806,860.16,865.966,142.2,True
+442,motorcycle,No violation of traffic lights,432,car,No violation of traffic lights,6.006,858.358,864.364,171.4,True
+432,car,No violation of traffic lights,446,car,No violation of traffic lights,7.407,863.163,870.571,145.3,True
+433,motorcycle,No violation of traffic lights,437,bicycle,No violation of traffic lights,9.51,855.856,865.365,48.8,True
+433,motorcycle,No violation of traffic lights,442,motorcycle,No violation of traffic lights,4.304,854.955,859.259,94.6,True
+434,car,No violation of traffic lights,438,car,No violation of traffic lights,8.509,858.859,867.367,28.8,True
+436,bicycle,yellow-light running,435,car,No violation of traffic lights,3.804,857.357,861.161,116.0,True
+435,car,No violation of traffic lights,441,motorcycle,red-light running,9.91,863.163,873.073,113.8,True
+435,car,No violation of traffic lights,447,motorcycle,No violation of traffic lights,6.507,863.764,870.27,157.2,True
+435,car,No violation of traffic lights,452,motorcycle,red-light running,9.81,866.466,876.276,149.4,False
+436,bicycle,yellow-light running,437,bicycle,No violation of traffic lights,3.203,854.054,857.257,113.3,True
+436,bicycle,yellow-light running,438,car,No violation of traffic lights,5.606,857.858,863.463,123.5,True
+440,bicycle,No violation of traffic lights,437,bicycle,No violation of traffic lights,2.503,864.164,866.667,165.2,True
+442,motorcycle,No violation of traffic lights,437,bicycle,No violation of traffic lights,1.602,860.961,862.563,137.9,True
+438,car,No violation of traffic lights,441,motorcycle,red-light running,6.607,865.766,872.372,118.1,True
+438,car,No violation of traffic lights,444,motorcycle,red-light running,7.608,865.465,873.073,113.9,True
+438,car,No violation of traffic lights,447,motorcycle,No violation of traffic lights,4.605,865.866,870.47,171.5,True
+438,car,No violation of traffic lights,452,motorcycle,red-light running,7.608,868.669,876.276,146.0,False
+439,car,No violation of traffic lights,450,car,No violation of traffic lights,3.704,888.388,892.092,153.7,True
+453,bicycle,red-light running,439,car,No violation of traffic lights,1.502,890.09,891.592,124.0,True
+439,car,No violation of traffic lights,458,motorcycle,No violation of traffic lights,3.003,891.191,894.194,28.7,False
+440,bicycle,No violation of traffic lights,448,motorcycle,red-light running,5.806,868.268,874.074,111.9,True
+440,bicycle,No violation of traffic lights,449,motorcycle,No violation of traffic lights,9.309,866.166,875.475,160.4,False
+445,car,No violation of traffic lights,441,motorcycle,red-light running,5.405,868.869,874.274,83.5,True
+447,motorcycle,No violation of traffic lights,441,motorcycle,red-light running,2.002,870.971,872.973,76.2,True
+441,motorcycle,red-light running,448,motorcycle,red-light running,1.802,876.276,878.078,126.2,True
+445,car,No violation of traffic lights,444,motorcycle,red-light running,5.906,868.569,874.474,90.4,True
+447,motorcycle,No violation of traffic lights,444,motorcycle,red-light running,2.302,871.171,873.473,75.0,True
+444,motorcycle,red-light running,448,motorcycle,red-light running,2.803,875.876,878.679,117.0,True
+445,car,No violation of traffic lights,446,car,No violation of traffic lights,0.601,870.17,870.771,140.6,True
+446,car,No violation of traffic lights,448,motorcycle,red-light running,2.603,873.974,876.577,111.0,True
+447,motorcycle,No violation of traffic lights,451,car,No violation of traffic lights,6.106,868.569,874.675,137.3,False
+448,motorcycle,red-light running,455,car,No violation of traffic lights,6.707,882.983,889.69,50.2,False
+450,car,No violation of traffic lights,454,motorcycle,red-light running,8.709,893.894,902.603,93.7,True
+455,car,No violation of traffic lights,450,car,No violation of traffic lights,1.802,890.791,892.593,151.5,True
+450,car,No violation of traffic lights,457,car,No violation of traffic lights,0.601,894.194,894.795,143.3,True
+450,car,No violation of traffic lights,458,motorcycle,No violation of traffic lights,3.804,893.994,897.798,142.3,True
+450,car,No violation of traffic lights,461,car,No violation of traffic lights,6.707,893.894,900.601,151.9,False
+452,motorcycle,red-light running,456,car,No violation of traffic lights,9.51,881.882,891.391,157.6,False
+453,bicycle,red-light running,454,motorcycle,red-light running,4.705,880.781,885.485,90.4,True
+456,car,No violation of traffic lights,453,bicycle,red-light running,5.405,896.597,902.002,53.5,True
+458,motorcycle,No violation of traffic lights,454,motorcycle,red-light running,4.304,898.498,902.803,122.7,True
+454,motorcycle,red-light running,459,car,No violation of traffic lights,4.605,902.803,907.407,25.7,True
+461,car,No violation of traffic lights,454,motorcycle,red-light running,1.602,901.401,903.003,101.4,True
+454,motorcycle,red-light running,464,tricycle,No violation of traffic lights,2.002,908.208,910.21,25.4,True
+454,motorcycle,red-light running,466,car,yellow-light running,7.007,904.204,911.211,77.7,True
+456,car,No violation of traffic lights,463,motorcycle,red-light running,4.905,893.994,898.899,70.9,False
+458,motorcycle,No violation of traffic lights,462,tricycle,red-light running,4.204,900.2,904.404,144.0,True
+458,motorcycle,No violation of traffic lights,463,motorcycle,red-light running,5.305,904.304,909.61,171.9,True
+466,car,yellow-light running,460,car,No violation of traffic lights,7.808,912.212,920.02,141.6,True
+460,car,No violation of traffic lights,474,motorcycle,red-light running,1.902,925.225,927.127,161.5,False
+461,car,No violation of traffic lights,462,tricycle,red-light running,1.401,903.203,904.605,135.5,True
+461,car,No violation of traffic lights,463,motorcycle,red-light running,3.604,906.707,910.31,179.6,True
+462,tricycle,red-light running,466,car,yellow-light running,5.005,906.807,911.812,90.0,True
+463,motorcycle,red-light running,466,car,yellow-light running,7.007,905.706,912.713,90.0,True
+463,motorcycle,red-light running,467,motorcycle,No violation of traffic lights,9.009,902.002,911.011,32.1,True
+466,car,yellow-light running,465,tricycle,No violation of traffic lights,4.905,913.313,918.218,92.7,True
+465,tricycle,No violation of traffic lights,470,tricycle,No violation of traffic lights,3.203,921.221,924.424,110.2,True
+466,car,yellow-light running,472,motorcycle,red-light running,8.308,914.414,922.723,160.7,False
+467,motorcycle,No violation of traffic lights,472,motorcycle,red-light running,4.505,918.819,923.323,173.3,False
+468,car,No violation of traffic lights,485,bicycle,No violation of traffic lights,3.403,953.854,957.257,139.6,True
+468,car,No violation of traffic lights,491,car,No violation of traffic lights,8.609,953.053,961.662,157.4,True
+468,car,No violation of traffic lights,495,motorcycle,red-light running,6.607,957.958,964.565,170.9,False
+477,bicycle,No violation of traffic lights,469,car,No violation of traffic lights,7.908,939.439,947.347,120.9,True
+478,motorcycle,No violation of traffic lights,469,car,No violation of traffic lights,3.203,942.943,946.146,114.4,True
+479,car,No violation of traffic lights,469,car,No violation of traffic lights,8.609,939.339,947.948,131.6,True
+469,car,No violation of traffic lights,488,car,No violation of traffic lights,9.409,948.649,958.058,152.4,False
+470,tricycle,No violation of traffic lights,477,bicycle,No violation of traffic lights,3.203,934.535,937.738,71.5,True
+470,tricycle,No violation of traffic lights,478,motorcycle,No violation of traffic lights,3.103,940.541,943.644,32.7,True
+470,tricycle,No violation of traffic lights,479,car,No violation of traffic lights,5.305,933.133,938.438,73.1,True
+472,motorcycle,red-light running,478,motorcycle,No violation of traffic lights,7.508,928.228,935.736,161.0,False
+474,motorcycle,red-light running,477,bicycle,No violation of traffic lights,9.409,929.83,939.239,88.6,True
+474,motorcycle,red-light running,479,car,No violation of traffic lights,8.709,930.531,939.239,87.7,False
+475,bicycle,red-light running,478,motorcycle,No violation of traffic lights,1.201,936.336,937.538,136.0,True
+476,tricycle,No violation of traffic lights,480,car,No violation of traffic lights,8.809,935.736,944.545,121.8,True
+478,motorcycle,No violation of traffic lights,477,bicycle,No violation of traffic lights,0.4,940.641,941.041,146.6,True
+477,bicycle,No violation of traffic lights,482,car,No violation of traffic lights,8.809,942.342,951.151,39.4,True
+478,motorcycle,No violation of traffic lights,479,car,No violation of traffic lights,1.401,939.139,940.541,153.2,True
+478,motorcycle,No violation of traffic lights,482,car,No violation of traffic lights,9.009,941.441,950.45,171.8,False
+484,truck,No violation of traffic lights,480,car,No violation of traffic lights,2.102,982.282,984.384,143.9,True
+494,car,No violation of traffic lights,480,car,No violation of traffic lights,0.501,984.585,985.085,145.1,True
+480,car,No violation of traffic lights,503,car,No violation of traffic lights,1.201,988.689,989.89,94.7,True
+480,car,No violation of traffic lights,506,car,No violation of traffic lights,4.004,986.486,990.49,143.7,True
+484,truck,No violation of traffic lights,481,car,No violation of traffic lights,2.703,981.081,983.784,155.6,True
+494,car,No violation of traffic lights,481,car,No violation of traffic lights,1.101,983.483,984.585,155.1,True
+481,car,No violation of traffic lights,506,car,No violation of traffic lights,3.003,986.486,989.489,153.4,True
+482,car,No violation of traffic lights,495,motorcycle,red-light running,8.709,955.656,964.364,163.9,False
+486,bicycle,red-light running,484,truck,No violation of traffic lights,8.809,974.274,983.083,58.2,True
+484,truck,No violation of traffic lights,489,car,No violation of traffic lights,4.805,980.981,985.786,156.5,True
+500,motorcycle,red-light running,484,truck,No violation of traffic lights,6.607,976.476,983.083,122.0,True
+484,truck,No violation of traffic lights,509,car,No violation of traffic lights,3.203,985.786,988.989,26.0,False
+484,truck,No violation of traffic lights,513,tricycle,red-light running,7.608,985.786,993.393,137.8,False
+491,car,No violation of traffic lights,486,bicycle,red-light running,5.305,962.963,968.268,85.2,True
+496,car,No violation of traffic lights,486,bicycle,red-light running,1.802,966.767,968.569,83.5,True
+486,bicycle,red-light running,497,bicycle,No violation of traffic lights,6.507,963.363,969.87,157.1,True
+486,bicycle,red-light running,498,bicycle,No violation of traffic lights,8.408,961.562,969.97,84.2,True
+486,bicycle,red-light running,500,motorcycle,red-light running,3.203,972.272,975.475,55.8,True
+494,car,No violation of traffic lights,489,car,No violation of traffic lights,3.003,983.383,986.386,156.1,True
+489,car,No violation of traffic lights,506,car,No violation of traffic lights,1.502,987.888,989.389,154.5,True
+489,car,No violation of traffic lights,509,car,No violation of traffic lights,8.909,986.186,995.095,138.7,True
+490,car,No violation of traffic lights,495,motorcycle,red-light running,2.402,962.563,964.965,167.0,True
+492,bicycle,No violation of traffic lights,505,bicycle,No violation of traffic lights,6.907,977.077,983.984,106.1,False
+493,bicycle,No violation of traffic lights,503,car,No violation of traffic lights,0.4,985.686,986.086,38.8,True
+500,motorcycle,red-light running,494,car,No violation of traffic lights,9.81,976.176,985.986,120.1,True
+494,car,No violation of traffic lights,507,car,No violation of traffic lights,9.61,983.383,992.993,157.6,True
+494,car,No violation of traffic lights,513,tricycle,red-light running,5.105,988.288,993.393,134.8,False
+496,car,No violation of traffic lights,495,motorcycle,red-light running,6.206,964.164,970.37,133.4,True
+496,car,No violation of traffic lights,500,motorcycle,red-light running,8.609,966.767,975.375,142.3,False
+500,motorcycle,red-light running,503,car,No violation of traffic lights,5.906,974.675,980.581,35.8,True
+500,motorcycle,red-light running,507,car,No violation of traffic lights,1.702,985.786,987.487,148.2,True
+500,motorcycle,red-light running,510,car,No violation of traffic lights,3.604,985.786,989.389,148.3,True
+500,motorcycle,red-light running,512,motorcycle,No violation of traffic lights,7.808,984.384,992.192,157.6,False
+511,bicycle,No violation of traffic lights,501,car,No violation of traffic lights,8.108,1002.202,1010.31,108.3,True
+501,car,No violation of traffic lights,520,tricycle,red-light running,6.607,1011.512,1018.118,105.7,True
+501,car,No violation of traffic lights,523,car,No violation of traffic lights,0.901,1016.917,1017.818,30.8,True
+501,car,No violation of traffic lights,524,car,No violation of traffic lights,5.305,1016.917,1022.222,35.8,False
+502,tricycle,No violation of traffic lights,505,bicycle,No violation of traffic lights,-0.1,1015.516,1015.415,177.7,True
+506,car,No violation of traffic lights,502,tricycle,No violation of traffic lights,7.407,993.393,1000.801,126.6,True
+502,tricycle,No violation of traffic lights,509,car,No violation of traffic lights,0.4,1000.2,1000.601,100.1,True
+502,tricycle,No violation of traffic lights,513,tricycle,red-light running,3.403,996.096,999.499,121.8,True
+502,tricycle,No violation of traffic lights,514,motorcycle,red-light running,4.204,994.595,998.799,38.3,True
+502,tricycle,No violation of traffic lights,516,car,No violation of traffic lights,3.504,1001.902,1005.405,106.8,True
+502,tricycle,No violation of traffic lights,517,car,No violation of traffic lights,4.705,1004.204,1008.909,65.0,True
+502,tricycle,No violation of traffic lights,526,car,No violation of traffic lights,7.207,1015.516,1022.723,163.5,False
+503,car,No violation of traffic lights,512,motorcycle,No violation of traffic lights,2.102,994.194,996.296,94.9,True
+504,bicycle,No violation of traffic lights,518,motorcycle,red-light running,4.605,1027.828,1032.432,90.0,True
+520,tricycle,red-light running,504,bicycle,No violation of traffic lights,0.601,1020.621,1021.221,79.5,True
+521,car,No violation of traffic lights,504,bicycle,No violation of traffic lights,3.804,1014.414,1018.218,43.3,True
+504,bicycle,No violation of traffic lights,530,car,No violation of traffic lights,1.902,1027.027,1028.929,137.5,True
+504,bicycle,No violation of traffic lights,532,car,No violation of traffic lights,7.608,1033.233,1040.841,28.0,True
+508,motorcycle,No violation of traffic lights,505,bicycle,No violation of traffic lights,4.304,993.694,997.998,142.2,True
+509,car,No violation of traffic lights,505,bicycle,No violation of traffic lights,5.606,998.699,1004.304,125.7,True
+505,bicycle,No violation of traffic lights,511,bicycle,No violation of traffic lights,8.609,997.798,1006.406,60.0,True
+505,bicycle,No violation of traffic lights,517,car,No violation of traffic lights,0.2,1010.11,1010.31,62.2,True
+505,bicycle,No violation of traffic lights,523,car,No violation of traffic lights,5.906,1011.512,1017.417,43.5,True
+505,bicycle,No violation of traffic lights,526,car,No violation of traffic lights,6.206,1018.519,1024.725,120.9,False
+506,car,No violation of traffic lights,507,car,No violation of traffic lights,1.301,991.491,992.793,155.5,True
+506,car,No violation of traffic lights,510,car,No violation of traffic lights,3.203,991.592,994.795,154.4,True
+506,car,No violation of traffic lights,512,motorcycle,No violation of traffic lights,3.303,992.292,995.596,142.6,True
+513,tricycle,red-light running,506,car,No violation of traffic lights,1.101,993.894,994.995,135.2,True
+506,car,No violation of traffic lights,516,car,No violation of traffic lights,9.309,994.695,1004.004,147.1,False
+507,car,No violation of traffic lights,509,car,No violation of traffic lights,2.202,992.793,994.995,139.9,True
+510,car,No violation of traffic lights,509,car,No violation of traffic lights,0.501,994.695,995.195,137.8,True
+512,motorcycle,No violation of traffic lights,509,car,No violation of traffic lights,1.802,995.195,996.997,124.3,True
+513,tricycle,red-light running,509,car,No violation of traffic lights,8.208,995.195,1003.403,146.0,True
+509,car,No violation of traffic lights,516,car,No violation of traffic lights,4.505,1001.602,1006.106,116.1,True
+511,bicycle,No violation of traffic lights,515,car,No violation of traffic lights,5.205,998.799,1004.004,27.0,True
+511,bicycle,No violation of traffic lights,521,car,No violation of traffic lights,7.708,1006.206,1013.914,35.3,True
+512,motorcycle,No violation of traffic lights,513,tricycle,red-light running,9.309,993.293,1002.603,151.3,True
+513,tricycle,red-light running,516,car,No violation of traffic lights,0.701,1009.009,1009.71,30.6,True
+513,tricycle,red-light running,521,car,No violation of traffic lights,6.507,1009.91,1016.416,26.1,True
+517,car,No violation of traffic lights,522,motorcycle,No violation of traffic lights,6.006,1014.214,1020.22,174.7,True
+524,car,No violation of traffic lights,518,motorcycle,red-light running,9.61,1025.325,1034.935,128.2,True
+526,car,No violation of traffic lights,518,motorcycle,red-light running,6.206,1029.029,1035.235,135.3,True
+527,motorcycle,No violation of traffic lights,518,motorcycle,red-light running,8.208,1026.527,1034.735,90.4,True
+528,bicycle,No violation of traffic lights,518,motorcycle,red-light running,0.701,1030.831,1031.532,105.0,True
+530,car,No violation of traffic lights,518,motorcycle,red-light running,3.804,1029.129,1032.933,121.1,True
+518,motorcycle,red-light running,532,car,No violation of traffic lights,1.201,1031.732,1032.933,37.9,True
+518,motorcycle,red-light running,535,motorcycle,No violation of traffic lights,1.702,1038.338,1040.04,111.6,True
+528,bicycle,No violation of traffic lights,519,car,No violation of traffic lights,4.404,1033.233,1037.638,136.5,True
+530,car,No violation of traffic lights,519,car,No violation of traffic lights,7.508,1030.33,1037.838,138.7,True
+519,car,No violation of traffic lights,533,car,No violation of traffic lights,1.301,1041.942,1043.243,153.4,True
+522,motorcycle,No violation of traffic lights,520,tricycle,red-light running,0.1,1017.618,1017.718,118.6,True
+523,car,No violation of traffic lights,522,motorcycle,No violation of traffic lights,0.601,1020.621,1021.221,52.6,True
+522,motorcycle,No violation of traffic lights,527,motorcycle,No violation of traffic lights,9.309,1018.819,1028.128,124.0,True
+523,car,No violation of traffic lights,527,motorcycle,No violation of traffic lights,7.007,1017.117,1024.124,28.7,False
+524,car,No violation of traffic lights,527,motorcycle,No violation of traffic lights,3.003,1021.522,1024.525,28.7,True
+528,bicycle,No violation of traffic lights,525,motorcycle,No violation of traffic lights,5.405,1027.427,1032.833,168.6,True
+525,motorcycle,No violation of traffic lights,534,motorcycle,No violation of traffic lights,4.404,1030.23,1034.635,169.7,True
+526,car,No violation of traffic lights,527,motorcycle,No violation of traffic lights,0.3,1023.924,1024.224,30.1,True
+528,bicycle,No violation of traffic lights,529,car,No violation of traffic lights,7.808,1034.635,1042.442,30.7,True
+532,car,No violation of traffic lights,533,car,No violation of traffic lights,3.203,1043.443,1046.647,26.9,True
+533,car,No violation of traffic lights,534,motorcycle,No violation of traffic lights,4.705,1046.046,1050.751,145.2,True
+533,car,No violation of traffic lights,543,car,No violation of traffic lights,9.51,1044.845,1054.354,155.5,False
+534,motorcycle,No violation of traffic lights,536,bicycle,red-light running,4.204,1052.653,1056.857,87.5,True
+534,motorcycle,No violation of traffic lights,539,bicycle,red-light running,5.005,1052.352,1057.357,91.4,True
+534,motorcycle,No violation of traffic lights,544,car,No violation of traffic lights,3.103,1050.15,1053.253,120.4,True
+534,motorcycle,No violation of traffic lights,548,motorcycle,No violation of traffic lights,0.1,1056.356,1056.456,112.1,True
+534,motorcycle,No violation of traffic lights,549,motorcycle,red-light running,5.706,1051.952,1057.658,31.0,False
+534,motorcycle,No violation of traffic lights,552,car,No violation of traffic lights,6.507,1056.356,1062.863,94.1,False
+535,motorcycle,No violation of traffic lights,541,motorcycle,No violation of traffic lights,6.507,1040.541,1047.047,80.8,False
+546,motorcycle,No violation of traffic lights,536,bicycle,red-light running,5.706,1059.76,1065.465,134.7,True
+536,bicycle,red-light running,548,motorcycle,No violation of traffic lights,4.605,1058.959,1063.564,89.7,True
+537,car,No violation of traffic lights,546,motorcycle,No violation of traffic lights,6.106,1051.752,1057.858,166.4,False
+543,car,No violation of traffic lights,538,bicycle,red-light running,6.306,1055.055,1061.361,99.2,True
+547,bicycle,No violation of traffic lights,538,bicycle,red-light running,3.303,1061.261,1064.565,67.3,True
+543,car,No violation of traffic lights,539,bicycle,red-light running,5.405,1054.755,1060.16,90.5,True
+547,bicycle,No violation of traffic lights,539,bicycle,red-light running,2.803,1061.662,1064.464,87.3,True
+539,bicycle,red-light running,548,motorcycle,No violation of traffic lights,3.303,1059.86,1063.163,96.8,True
+547,bicycle,No violation of traffic lights,540,car,No violation of traffic lights,8.108,1062.362,1070.47,91.1,True
+548,motorcycle,No violation of traffic lights,540,car,No violation of traffic lights,5.205,1063.163,1068.368,76.5,True
+540,car,No violation of traffic lights,549,motorcycle,red-light running,1.502,1068.669,1070.17,89.3,True
+540,car,No violation of traffic lights,556,motorcycle,red-light running,4.204,1069.369,1073.574,96.7,True
+542,car,No violation of traffic lights,546,motorcycle,No violation of traffic lights,3.604,1054.354,1057.958,163.9,True
+544,car,No violation of traffic lights,549,motorcycle,red-light running,0.4,1057.257,1057.658,123.9,True
+544,car,No violation of traffic lights,552,car,No violation of traffic lights,5.706,1057.157,1062.863,139.6,False
+546,motorcycle,No violation of traffic lights,547,bicycle,No violation of traffic lights,3.604,1060.16,1063.764,139.7,True
+547,bicycle,No violation of traffic lights,551,car,red-light running,8.609,1061.461,1070.07,89.0,True
+548,motorcycle,No violation of traffic lights,551,car,red-light running,2.503,1063.864,1066.366,78.2,True
+548,motorcycle,No violation of traffic lights,556,motorcycle,red-light running,6.607,1067.267,1073.874,116.6,True
+551,car,red-light running,549,motorcycle,red-light running,4.905,1066.867,1071.772,87.7,True
+549,motorcycle,red-light running,555,bicycle,No violation of traffic lights,8.709,1068.869,1077.578,79.7,True
+549,motorcycle,red-light running,558,car,No violation of traffic lights,9.91,1070.871,1080.781,32.1,True
+549,motorcycle,red-light running,559,car,No violation of traffic lights,8.208,1075.776,1083.984,124.1,False
+549,motorcycle,red-light running,561,motorcycle,No violation of traffic lights,3.704,1079.279,1082.983,65.6,False
+551,car,red-light running,556,motorcycle,red-light running,6.306,1068.068,1074.374,113.6,True
+552,car,No violation of traffic lights,564,truck,No violation of traffic lights,6.807,1101.401,1108.208,127.0,True
+565,car,No violation of traffic lights,552,car,No violation of traffic lights,7.608,1094.394,1102.002,112.5,True
+552,car,No violation of traffic lights,569,car,No violation of traffic lights,4.805,1097.998,1102.803,163.4,True
+552,car,No violation of traffic lights,573,tricycle,No violation of traffic lights,6.006,1106.206,1112.212,160.9,False
+562,bicycle,No violation of traffic lights,553,car,No violation of traffic lights,6.907,1091.892,1098.799,90.0,True
+555,bicycle,No violation of traffic lights,554,bicycle,red-light running,1.001,1078.478,1079.479,76.1,True
+558,car,No violation of traffic lights,554,bicycle,red-light running,1.602,1080.981,1082.583,133.4,True
+554,bicycle,red-light running,565,car,No violation of traffic lights,1.001,1086.587,1087.588,50.4,True
+556,motorcycle,red-light running,555,bicycle,No violation of traffic lights,3.303,1072.973,1076.276,76.9,True
+555,bicycle,No violation of traffic lights,558,car,No violation of traffic lights,6.306,1076.276,1082.583,134.6,True
+556,motorcycle,red-light running,558,car,No violation of traffic lights,7.708,1073.774,1081.481,126.7,True
+556,motorcycle,red-light running,559,car,No violation of traffic lights,8.108,1078.879,1086.987,65.4,False
+556,motorcycle,red-light running,560,car,No violation of traffic lights,4.404,1077.978,1082.382,129.6,False
+556,motorcycle,red-light running,563,car,No violation of traffic lights,6.106,1078.779,1084.885,160.2,False
+559,car,No violation of traffic lights,562,bicycle,No violation of traffic lights,1.802,1083.884,1085.686,27.3,True
+560,car,No violation of traffic lights,564,truck,No violation of traffic lights,2.903,1103.403,1106.306,146.5,True
+561,motorcycle,No violation of traffic lights,564,truck,No violation of traffic lights,8.408,1101.602,1110.01,171.5,True
+565,car,No violation of traffic lights,561,motorcycle,No violation of traffic lights,7.808,1094.394,1102.202,134.7,True
+561,motorcycle,No violation of traffic lights,569,car,No violation of traffic lights,5.105,1097.698,1102.803,29.8,True
+562,bicycle,No violation of traffic lights,565,car,No violation of traffic lights,-0.4,1088.188,1087.788,30.0,True
+562,bicycle,No violation of traffic lights,566,car,No violation of traffic lights,6.006,1093.093,1099.099,89.1,True
+563,car,No violation of traffic lights,564,truck,No violation of traffic lights,1.502,1105.105,1106.607,36.2,True
+569,car,No violation of traffic lights,564,truck,No violation of traffic lights,2.903,1109.009,1111.912,29.7,True
+570,bicycle,No violation of traffic lights,571,tricycle,red-light running,1.001,1116.116,1117.117,94.3,True
+571,tricycle,red-light running,575,motorcycle,No violation of traffic lights,3.003,1120.721,1123.724,92.7,True
+575,motorcycle,No violation of traffic lights,572,motorcycle,No violation of traffic lights,7.207,1124.224,1131.431,93.4,True
+572,motorcycle,No violation of traffic lights,582,motorcycle,red-light running,6.406,1132.332,1138.739,92.5,True
+575,motorcycle,No violation of traffic lights,574,car,No violation of traffic lights,5.205,1123.223,1128.428,90.0,True
+574,car,No violation of traffic lights,582,motorcycle,red-light running,8.609,1129.229,1137.838,90.0,True
+575,motorcycle,No violation of traffic lights,577,bicycle,red-light running,4.204,1120.621,1124.825,84.6,True
+575,motorcycle,No violation of traffic lights,579,car,No violation of traffic lights,9.61,1122.022,1131.632,125.9,True
+576,car,No violation of traffic lights,577,bicycle,red-light running,1.101,1120.721,1121.822,113.6,True
+577,bicycle,red-light running,579,car,No violation of traffic lights,8.008,1124.625,1132.633,142.7,True
+579,car,No violation of traffic lights,582,motorcycle,red-light running,3.704,1132.933,1136.637,127.4,True
+581,car,No violation of traffic lights,582,motorcycle,red-light running,2.402,1135.435,1137.838,90.0,True
+585,motorcycle,red-light running,591,car,No violation of traffic lights,6.206,1148.649,1154.855,27.3,False
+586,car,No violation of traffic lights,595,car,No violation of traffic lights,0.701,1163.764,1164.464,147.5,True
+587,bicycle,No violation of traffic lights,589,car,No violation of traffic lights,3.604,1162.963,1166.567,130.4,True
+591,car,No violation of traffic lights,587,bicycle,No violation of traffic lights,1.001,1154.154,1155.155,168.6,True
+593,car,No violation of traffic lights,589,car,No violation of traffic lights,1.702,1164.064,1165.766,128.9,True
+594,car,No violation of traffic lights,589,car,No violation of traffic lights,1.101,1162.763,1163.864,159.3,True
+596,motorcycle,red-light running,589,car,No violation of traffic lights,5.405,1161.862,1167.267,65.2,True
+589,car,No violation of traffic lights,597,car,No violation of traffic lights,2.102,1166.066,1168.168,159.2,True
+589,car,No violation of traffic lights,599,motorcycle,No violation of traffic lights,4.605,1166.867,1171.471,141.3,True
+589,car,No violation of traffic lights,600,motorcycle,No violation of traffic lights,6.206,1166.667,1172.873,154.8,True
+590,car,No violation of traffic lights,595,car,No violation of traffic lights,3.804,1161.662,1165.465,127.3,True
+591,car,No violation of traffic lights,593,car,No violation of traffic lights,-0.2,1153.153,1152.953,28.9,True
+591,car,No violation of traffic lights,596,motorcycle,red-light running,7.207,1154.655,1161.862,25.7,False
+596,motorcycle,red-light running,592,car,No violation of traffic lights,8.709,1174.374,1183.083,46.6,True
+598,car,No violation of traffic lights,592,car,No violation of traffic lights,9.009,1175.976,1184.985,129.2,True
+592,car,No violation of traffic lights,601,motorcycle,No violation of traffic lights,5.606,1188.188,1193.794,137.6,True
+593,car,No violation of traffic lights,600,motorcycle,No violation of traffic lights,3.504,1162.863,1166.366,57.0,True
+594,car,No violation of traffic lights,598,car,No violation of traffic lights,8.709,1161.662,1170.37,154.4,True
+599,motorcycle,No violation of traffic lights,596,motorcycle,red-light running,5.205,1165.866,1171.071,163.5,True
+600,motorcycle,No violation of traffic lights,596,motorcycle,red-light running,3.103,1168.068,1171.171,161.9,True
+597,car,No violation of traffic lights,598,car,No violation of traffic lights,2.202,1168.669,1170.871,150.9,True
+599,motorcycle,No violation of traffic lights,598,car,No violation of traffic lights,2.703,1171.271,1173.974,33.0,True
+600,motorcycle,No violation of traffic lights,598,car,No violation of traffic lights,1.001,1172.673,1173.674,79.0,True
+602,car,yellow-light running,601,motorcycle,No violation of traffic lights,9.009,1182.883,1191.892,109.1,True
+601,motorcycle,No violation of traffic lights,605,car,No violation of traffic lights,4.404,1193.894,1198.298,149.7,True
+602,car,yellow-light running,604,car,No violation of traffic lights,8.308,1182.182,1190.49,90.0,False
+604,car,No violation of traffic lights,603,motorcycle,No violation of traffic lights,3.604,1193.393,1196.997,27.5,True

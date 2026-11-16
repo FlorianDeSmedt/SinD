@@ -1,0 +1,14 @@
+second_violation,second_agent_type,count,mean_pet,median_pet,min_pet
+No violation of traffic lights,bicycle,101,4.897,4.505,-0.3
+No violation of traffic lights,bus,2,4.504,4.504,1.702
+No violation of traffic lights,car,345,4.834,4.905,-0.4
+No violation of traffic lights,motorcycle,133,4.474,4.204,-0.4
+No violation of traffic lights,tricycle,26,4.94,4.755,0.2
+No violation of traffic lights,truck,9,4.916,4.004,1.502
+red-light running,bicycle,74,5.167,5.205,0.3
+red-light running,car,3,4.104,2.503,1.201
+red-light running,motorcycle,163,4.909,5.005,0.4
+red-light running,tricycle,15,5.379,6.507,0.1
+yellow-light running,bicycle,7,3.232,2.803,0.2
+yellow-light running,car,10,5.025,5.356,0.4
+yellow-light running,motorcycle,7,5.234,4.204,0.1

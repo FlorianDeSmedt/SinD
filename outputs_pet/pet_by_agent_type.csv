@@ -1,0 +1,7 @@
+second_agent_type,count,mean_pet,median_pet,min_pet,p15_pet
+bicycle,182,4.943,4.605,-0.3,1.602
+bus,2,4.504,4.504,1.702,2.543
+car,358,4.833,4.905,-0.4,1.201
+motorcycle,303,4.726,4.605,-0.4,1.602
+tricycle,41,5.1,4.905,0.1,2.202
+truck,9,4.916,4.004,1.502,2.422

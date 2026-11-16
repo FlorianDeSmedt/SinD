@@ -1,0 +1,20 @@
+track_id,agent_type,origin,destination,movement,signal_status,red_violation_candidates,red_transition_review_count,meta_Signal_Violation_Behavior
+136,tricycle,S,N,straight,suspected_red_light_violation,1,0,No violation of traffic lights
+140,car,S,N,straight,suspected_red_light_violation,1,1,No violation of traffic lights
+17,motorcycle,S,W,left,transition_red_review_required,0,1,red-light running
+188,bicycle,E,W,straight,suspected_red_light_violation,1,0,No violation of traffic lights
+254,bicycle,W,E,straight,transition_red_review_required,0,1,red-light running
+283,motorcycle,W,E,straight,suspected_red_light_violation,1,0,No violation of traffic lights
+285,motorcycle,N,E,left,crossing_observed_no_illegal_red_detected,0,0,red-light running
+34,tricycle,N,S,straight,suspected_red_light_violation,1,0,No violation of traffic lights
+350,motorcycle,E,W,straight,suspected_red_light_violation,1,0,No violation of traffic lights
+368,car,W,N,left,crossing_observed_no_illegal_red_detected,0,0,red-light running
+420,bicycle,N,S,straight,suspected_red_light_violation,1,0,No violation of traffic lights
+421,bicycle,N,S,straight,suspected_red_light_violation,1,0,No violation of traffic lights
+43,motorcycle,E,W,straight,suspected_red_light_violation,1,0,No violation of traffic lights
+45,motorcycle,N,S,straight,transition_red_review_required,0,1,red-light running
+465,tricycle,E,W,straight,suspected_red_light_violation,1,0,No violation of traffic lights
+549,motorcycle,E,W,straight,transition_red_review_required,0,1,red-light running
+561,motorcycle,E,W,straight,suspected_red_light_violation,1,0,No violation of traffic lights
+587,bicycle,E,W,straight,suspected_red_light_violation,1,0,No violation of traffic lights
+592,car,N,E,left,suspected_red_light_violation,1,0,No violation of traffic lights

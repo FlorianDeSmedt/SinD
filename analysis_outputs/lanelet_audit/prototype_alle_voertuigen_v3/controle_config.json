@@ -1,0 +1,158 @@
+{
+  "prototype": "v3",
+  "notes": [
+    "Geen bewezen juridische overtredingen; zie handmatige validatie en lokale regelgeving.",
+    "Motorvoertuigsignaal geldt niet automatisch voor fietsers.",
+    "Stoplijn = einde korte approach_gap-Lanelets (indien aanwezig), door gebruiker als stoplijn aangenomen; niet onafhankelijk ingemeten.",
+    "Voertuigvoorkant alleen benaderd indien gemeten voertuiglente beschikbaar; voertuigoriëntatie uit beweging.",
+    "Lanelet-functies zijn werkhypothesen; geel is niet automatisch juridisch fietsnetwerk.",
+    "Rechtsaf bij rood is mogelijk onder voorwaarden; niet automatisch overtreding.",
+    "Een voertuig zonder crossing_event kan links-gecensureerd zijn of buiten gate passeren."
+  ],
+  "record_counts": {
+    "tracks": 611,
+    "points": 129273,
+    "by_agent": {
+      "motorcycle": 171,
+      "bicycle": 131,
+      "car": 268,
+      "tricycle": 33,
+      "bus": 4,
+      "truck": 4
+    },
+    "by_event": {
+      "motor_in_assumed_nonmotor_lane": 236,
+      "nonmotor_in_assumed_motor_lane": 61,
+      "red_signal_at_reference_crossing": 123,
+      "green_signal_at_reference_crossing": 318,
+      "entry_lane_marking_incompatible_with_turn_candidate": 149,
+      "outside_modelled_OD_connector_corridor_candidate": 81,
+      "wrong_way_road_segment_candidate": 102,
+      "stationary_on_crosswalk_during_motor_signal_red": 28,
+      "wait_at_reference_line_during_red": 4,
+      "wait_before_reference_line_during_red": 63,
+      "destination_inbound_wrong_side_turn_candidate": 45,
+      "yellow_signal_at_reference_crossing": 12,
+      "wait_past_reference_line_during_red": 28,
+      "stationary_on_crosswalk": 2
+    },
+    "by_od_status": {
+      "incomplete_or_ambiguous": 80,
+      "classified": 521,
+      "same_arm_or_incomplete": 10
+    }
+  },
+  "lanelets": 66,
+  "skipped": [
+    [
+      "-101274",
+      "missing_boundary"
+    ]
+  ],
+  "signal_file_present": true,
+  "signal_rules": {
+    "N": {
+      "motor": 1,
+      "nonmotor": null,
+      "verified_motor": true,
+      "verified_nonmotor": false,
+      "source": "Tianjin_8_2_1_CSV_phase_groups_replay_verified; individual_head_unverified"
+    },
+    "E": {
+      "motor": 7,
+      "nonmotor": null,
+      "verified_motor": true,
+      "verified_nonmotor": false,
+      "source": "Tianjin_8_2_1_CSV_phase_groups_replay_verified; individual_head_unverified"
+    },
+    "S": {
+      "motor": 5,
+      "nonmotor": null,
+      "verified_motor": true,
+      "verified_nonmotor": false,
+      "source": "Tianjin_8_2_1_CSV_phase_groups_replay_verified; individual_head_unverified"
+    },
+    "W": {
+      "motor": 3,
+      "nonmotor": null,
+      "verified_motor": true,
+      "verified_nonmotor": false,
+      "source": "Tianjin_8_2_1_CSV_phase_groups_replay_verified; individual_head_unverified"
+    }
+  },
+  "phase_group_verified": true,
+  "time_alignment_verified": true,
+  "signal_offset_ms": 0.0,
+  "gates": {
+    "N": {
+      "start": [
+        5.121765724236299,
+        32.50044919208511
+      ],
+      "end": [
+        13.1024015468861,
+        32.50044919208511
+      ],
+      "type": "approach_gap_lanelet_end_assumed_stopline",
+      "validated": true,
+      "source": "USER_ASSUMPTION_LANELET_END_IS_STOPLINE"
+    },
+    "E": {
+      "start": [
+        31.26407249565392,
+        26.381341258673174
+      ],
+      "end": [
+        31.26407249565392,
+        15.91612063661453
+      ],
+      "type": "approach_gap_lanelet_end_assumed_stopline",
+      "validated": true,
+      "source": "USER_ASSUMPTION_LANELET_END_IS_STOPLINE"
+    },
+    "S": {
+      "start": [
+        22.276726136139633,
+        -0.2769317236362425
+      ],
+      "end": [
+        14.325545450753733,
+        -0.2769317236362425
+      ],
+      "type": "approach_gap_lanelet_end_assumed_stopline",
+      "validated": true,
+      "source": "USER_ASSUMPTION_LANELET_END_IS_STOPLINE"
+    },
+    "W": {
+      "start": [
+        -1.6473529500099648,
+        6.347105556986541
+      ],
+      "end": [
+        -1.6473529500099648,
+        16.66215061999052
+      ],
+      "type": "approach_gap_lanelet_end_assumed_stopline",
+      "validated": true,
+      "source": "USER_ASSUMPTION_LANELET_END_IS_STOPLINE"
+    }
+  },
+  "run_options": {
+    "tracks": "Data\\Tianjin\\8_2_1\\Veh_smoothed_tracks.csv",
+    "meta": "Data\\Tianjin\\8_2_1\\Veh_tracks_meta.csv",
+    "signals": "Data\\Tianjin\\8_2_1\\TrafficLight_8_2_1.csv",
+    "osm": "C:\\Users\\Asus\\OneDrive\\Dokumentumok\\Erasmus\\Suli\\ITS\\SinD\\SinD_Tianjin_core_v4_GETEST\\Tianjin_core_v4\\tianjin_lanelets_uitgebreid.osm",
+    "output_dir": "analysis_outputs\\lanelet_audit\\prototype_alle_voertuigen_v3",
+    "stoplines": "None",
+    "no_replay_signal_check": "False",
+    "image": "Data\\Tianjin\\tianjin.jpg",
+    "signal_config": "None",
+    "signal_offset_ms": "0.0",
+    "plots": "False",
+    "plot_ids": "1,2,4,9,10,11,12,17",
+    "plot_limit": "25",
+    "min_episode_m": "2.0",
+    "stop_speed_mps": "0.4",
+    "stop_min_sec": "1.2"
+  }
+}
