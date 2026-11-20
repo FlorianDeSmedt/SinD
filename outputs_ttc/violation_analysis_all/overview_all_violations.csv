@@ -1,0 +1,7 @@
+group,key,n,mean_s,sem_s,n_any,pct_any,pct_any_se,expected_mean_s_same_type_mix,ratio_observed_to_expected
+No violation (reference),reference,447,0.0649,0.0172,28,6.264,1.1461,0.0649,1.0
+Red-light running (annotation),red_light,101,0.1487,0.0505,12,11.8812,3.2196,0.0972,1.5299
+Yellow-light running (annotation),yellow_light,15,0.0067,0.0067,1,6.6667,6.4406,0.0708,0.0942
+Suspected red-light violation (own detection),red_light_detected,107,0.1675,0.0498,15,14.0187,3.3563,0.0983,1.7034
+Wrong-way driving,wrong_way,63,0.035,0.0202,4,6.3492,3.0722,0.1047,0.3339
+Any of the violations,any_violation,160,0.1195,0.0343,18,11.25,2.498,0.0992,1.204

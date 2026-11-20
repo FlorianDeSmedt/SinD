@@ -1,0 +1,5 @@
+,red_light,yellow_light,red_light_detected,wrong_way
+red_light,101,0,95,28
+yellow_light,0,15,0,3
+red_light_detected,95,0,107,26
+wrong_way,28,3,26,63
