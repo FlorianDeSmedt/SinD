@@ -1,0 +1,18 @@
+agent_type,violation,n,mean_s,sd_s,n_any,sem_s,pct_any,pct_any_se
+car,No violation,257,0.037,0.2088,14,0.013,5.4475,1.4157
+car,Red-light running,2,0.0,0.0,0,0.0,0.0,0.0
+car,Yellow-light running,8,0.0,0.0,0,0.0,0.0,0.0
+motorcycle,No violation,108,0.0306,0.299,2,0.0288,1.8519,1.2973
+motorcycle,Red-light running,59,0.0628,0.2191,5,0.0285,8.4746,3.6258
+motorcycle,Yellow-light running,3,0.0,0.0,0,0.0,0.0,0.0
+bicycle,No violation,94,0.2151,0.6533,17,0.0674,18.0851,3.9699
+bicycle,Red-light running,34,0.3327,0.8015,7,0.1374,20.5882,6.9345
+bicycle,Yellow-light running,3,0.0334,0.0578,1,0.0334,33.3333,27.2166
+tricycle,No violation,25,0.0,0.0,0,0.0,0.0,0.0
+tricycle,Red-light running,6,0.0,0.0,0,0.0,0.0,0.0
+tricycle,Yellow-light running,1,0.0,,0,,0.0,0.0
+truck,No violation,4,0.0,0.0,0,0.0,0.0,0.0
+bus,No violation,3,0.0,0.0,0,0.0,0.0,0.0
+all vehicles,No violation,491,0.0673,0.3586,33,0.0162,6.721,1.13
+all vehicles,Red-light running,101,0.1487,0.5074,12,0.0505,11.8812,3.2196
+all vehicles,Yellow-light running,15,0.0067,0.0258,1,0.0067,6.6667,6.4406
